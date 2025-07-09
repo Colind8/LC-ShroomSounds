@@ -1,0 +1,64 @@
+{
+    "randomness": {
+        "type": "determinstic"
+    },
+    "replacements": [
+		{
+            "matches": [
+				"HangarShip:ClipboardManual:PaperTurn1",
+				"HangarShip:ClipboardManual:PaperTurn2"
+			],
+            "sounds": [
+				{
+                    "sound": "items/clipboard/clipboard_common.ogg",
+                    "weight": 10
+                },
+				{
+                    "sound": "items/clipboard/clipboard_uncommon.ogg",
+                    "weight": 8
+                },
+				{
+                    "sound": "items/clipboard/clipboard_rare.ogg",
+                    "weight": 4
+                },
+				{
+                    "sound": "items/clipboard/clipboard_legendary.ogg",
+                    "weight": 2
+                },
+				{
+                    "sound": "items/clipboard/clipboard_unusual.ogg",
+                    "weight": 1
+                }
+            ]
+        },
+		{
+			"matches": [
+				"TragedyMask/ComedyMask:MaskLaugh1",
+				"TragedyMask/ComedyMask:MaskLaugh2",
+				"TragedyMask/ComedyMask:MaskLaugh3"
+			],
+            "sounds": [
+				{
+                    "sound": "items/comedy_mask/dagoth_ur_laugh1.ogg",
+                    "weight": 15
+                },
+				{
+                    "sound": "items/comedy_mask/dagoth_ur_laugh2.ogg",
+                    "weight": 15
+                },
+				{
+                    "sound": "items/comedy_mask/dagoth_ur_grunt1.ogg",
+                    "weight": 5
+                },
+				{
+                    "sound": "items/comedy_mask/dagoth_ur_grunt2.ogg",
+                    "weight": 5
+                },
+				{
+                    "sound": "items/comedy_mask/dagoth_ur_rare.ogg",
+                    "weight": 1
+                }
+			]
+		}
+    ]
+}

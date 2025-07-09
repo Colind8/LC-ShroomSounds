@@ -1,0 +1,80 @@
+{
+    "randomness": {
+        "type": "determinstic"
+    },
+    "replacements": [{
+            "matches": "Gunfire:TurretActivate",
+            "sounds": [{
+                    "sound": "traps/turret/activate.ogg",
+                    "weight": 1
+                }
+            ]
+        }, {
+            "matches": "BerserkAudio:TurretBerserkMode",
+            "sounds": [{
+                    "sound": "traps/turret/berserk.ogg",
+                    "weight": 1
+                }
+            ]
+        }, {
+            "matches": "Gunfire:TurretDeactivate",
+            "sounds": [{
+                    "sound": "traps/turret/deactivate.ogg",
+                    "weight": 1
+                }
+            ]
+        }, {
+            "matches": "Gunfire:TurretFire",
+            "sounds": [{
+                    "sound": "traps/turret/fire.ogg",
+                    "weight": 1
+                }
+            ]
+        }, {
+            "matches": "Gunfire:TurretFireDistance",
+            "sounds": [{
+                    "sound": "traps/turret/firedistance.ogg",
+                    "weight": 1
+                }
+            ]
+        }, {
+            "matches": "Gunfire:TurretSeePlayer",
+            "sounds": [{
+                    "sound": "traps/turret/seen1.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "traps/turret/seen2.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "traps/turret/seen3.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "traps/turret/seen4.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "traps/turret/seen5.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "traps/turret/seen6.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "traps/turret/seen7.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "traps/turret/seen8.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "traps/turret/seen9.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "traps/turret/seen10.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "traps/turret/seen11.ogg",
+                    "weight": 1
+                }
+
+            ]
+        }
+    ]
+}

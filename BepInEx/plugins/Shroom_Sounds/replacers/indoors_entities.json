@@ -1,0 +1,103 @@
+{
+    "randomness": {
+        "type": "determinstic"
+    },
+	"replacements": [
+		{
+			"matches": "Flowerman:Found1",
+			"sounds": [
+				{
+					"sound": "entities/bracken/found.ogg",
+					"weight": 90
+				},
+				{
+					"sound": "entities/bracken/found_rare.ogg",
+					"weight": 10
+				}
+			]
+		},
+		{
+			"matches": "Crawler:Stomp1",
+			"sounds": [
+				{
+					"sound": "entities/thumper/stomp1.ogg",
+					"weight": 95
+				},
+				{
+					"sound": "entities/thumper/stomp1_rare.ogg",
+					"weight": 5
+				}
+			]
+		},
+		{
+			"matches": "CentipedeModel:SlamGround",
+			"sounds": [
+				{
+					"sound": "entities/snare_flea/slam_ground.ogg",
+					"weight": 90
+				},
+				{
+					"sound": "entities/snare_flea/slam_ground_rare.ogg",
+					"weight": 10
+				}
+			]
+		},
+		{
+			"matches": "Centipede:CentipedeModel:ClingToPlayer",
+			"sounds": [
+				{
+					"sound": "entities/snare_flea/vassalation.ogg",
+					"weight": 1
+				}
+			]
+		},
+		{
+			"matches": "CentipedeModel:ClingToPlayer2DSFX:ClingToPlayerLocal",
+			"sounds": [
+				{
+					"sound": "entities/snare_flea/vassalation_local.ogg",
+					"weight": 1
+				}
+			]
+		},
+		{
+			"matches": "VoiceSFX:SpringWobble1",
+			"sounds": [
+				{
+					"sound": "entities/coilhead/spring_wobble.ogg",
+					"weight": 90
+				},
+				{
+					"sound": "entities/coilhead/spring_wobble_rare.ogg",
+					"weight": 10
+				}
+			]
+		},
+		{
+			"matches": "VoiceSFX:Breathing",
+			"sounds": [
+				{
+					"sound": "entities/ghost_girl/breathing.ogg",
+					"weight": 90
+				},
+				{
+					"sound": "entities/ghost_girl/breathing_rare.ogg",
+					"weight": 10
+				}
+			]
+		},
+		{
+			"matches": "*:BellChimeAmbience",
+			"sounds": [
+				{
+					"sound": "entities/ghost_girl/bellchimes.ogg",
+					"weight": 90
+				},
+				{
+					"sound": "entities/ghost_girl/bellchimes_rare.ogg",
+					"weight": 10
+				}
+			]
+		}
+	]
+}

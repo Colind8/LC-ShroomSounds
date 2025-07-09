@@ -1,0 +1,22 @@
+{
+    "randomness": {
+        "type": "determinstic"
+    },
+    "replacements": [{
+            "matches": "Landmine:PressLandmine",
+            "sounds": [{
+                    "sound": "traps/land_mine/PressLandmine.ogg",
+                    "weight": 1
+                }
+            ]
+        },
+		{
+			"matches": "Landmine:MineTrigger",
+            "sounds": [{
+                    "sound": "traps/land_mine/MineTrigger.ogg",
+                    "weight": 1
+                }
+            ]
+		}
+    ]
+}

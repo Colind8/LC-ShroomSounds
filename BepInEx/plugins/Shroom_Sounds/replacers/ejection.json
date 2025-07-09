@@ -1,0 +1,16 @@
+{
+	"randomness": {
+		"type": "determinstic"
+	},
+	"replacements": [
+		{
+		  "matches": "Audios:UIAudio:SuckedIntoSpace",
+		  "sounds": [
+				{
+				  "sound": "ejection/sucked_into_space.ogg",
+				  "weight": 1
+				}
+		  ]
+		}
+	]
+}

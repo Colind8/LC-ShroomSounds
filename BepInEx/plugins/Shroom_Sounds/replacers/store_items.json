@@ -1,0 +1,37 @@
+{
+    "randomness": {
+        "type": "determinstic"
+    },
+    "replacements": [
+		{
+            "matches": "RadarBoosterDevice:BoosterPingAudio:GhostDevicePing",
+            "sounds": [{
+                    "sound": "store_items/radar_booster/dave1.ogg",
+                    "weight": 1
+                },{
+                    "sound": "store_items/radar_booster/dave2.ogg",
+                    "weight": 1
+                },{
+                    "sound": "store_items/radar_booster/dave3.ogg",
+                    "weight": 1
+                }
+            ]
+        },
+		{
+            "matches": "TZPChemical:LocalHelmetSFX:ReleaseHelmetGas",
+            "sounds": [{
+                    "sound": "store_items/tzp_inhalent/ReleaseHelmetGas.ogg",
+                    "weight": 1
+                }
+            ]
+        },
+		{
+            "matches": "TZPChemical:LocalHelmetSFX:ReleaseHelmetGas2",
+            "sounds": [{
+                    "sound": "store_items/tzp_inhalent/ReleaseHelmetGas2.ogg",
+                    "weight": 1
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+	"randomness": {
+		"type": "determinstic"
+	},
+	"replacements": [
+		{
+		  "matches": "Cube.005:SpeakerAudio:IntroCompanySpeech",
+		  "sounds": [
+				{
+				  "sound": "intro_speech/IntroCompanySpeech-10.ogg",
+				  "weight": 1
+				},
+				{
+				  "sound": "intro_speech/IntroCompanySpeech-announcer_login-10.ogg",
+				  "weight": 1
+				},
+				{
+				  "sound": "intro_speech/IntroCompanySpeech-Best-Friends-10.ogg",
+				  "weight": 1
+				},
+				{
+				  "sound": "intro_speech/IntroCompanySpeech-PortalOC-10.ogg",
+				  "weight": 1
+				},
+				{
+				  "sound": "intro_speech/intro_albuquerque.ogg",
+				  "weight": 1
+				},
+				{
+				  "sound": "intro_speech/intro_vib.ogg",
+				  "weight": 1
+				},
+				{
+				  "sound": "intro_speech/intro_vib2.ogg",
+				  "weight": 1
+				},
+				{
+				  "sound": "intro_speech/intro_fnaf.ogg",
+				  "weight": 1
+				},
+				{
+				  "sound": "intro_speech/IntroCompanySpeech-Shadowman1-10.ogg",
+				  "weight": 1
+				}
+		  ]
+		}
+	]
+}

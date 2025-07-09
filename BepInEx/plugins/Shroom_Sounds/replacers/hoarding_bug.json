@@ -1,0 +1,157 @@
+{
+    "randomness": {
+        "type": "determinstic"
+    },
+    "replacements": [
+		{
+			"matches": [
+			    "Voice:Chitter1",
+				"Voice:Chitter2",
+				"Voice:Chitter3"
+			],
+			"sounds": [
+				{
+					"sound": "entities/hoarding_bug/ellis_chitter1.ogg",
+					"weight": 4
+				},
+				{
+					"sound": "entities/hoarding_bug/ellis_chitter2.ogg",
+					"weight": 4
+				},
+				{
+					"sound": "entities/hoarding_bug/ellis_chitter3.ogg",
+					"weight": 4
+				},
+				{
+					"sound": "entities/hoarding_bug/ellis_chitter4.ogg",
+					"weight": 4
+				},
+				{
+					"sound": "entities/hoarding_bug/ellis_chitter5.ogg",
+					"weight": 4
+				},
+				{
+					"sound": "entities/hoarding_bug/ellis_chitter6.ogg",
+					"weight": 4
+				},
+				{
+					"sound": "entities/hoarding_bug/ellis_chitter7.ogg",
+					"weight": 4
+				},
+				{
+					"sound": "entities/hoarding_bug/ellis_chitter8.ogg",
+					"weight": 4
+				},
+				{
+					"sound": "entities/hoarding_bug/ellis_chitter9.ogg",
+					"weight": 4
+				},
+				{
+					"sound": "entities/hoarding_bug/ellis_chitter_rare1.ogg",
+					"weight": 1
+				},
+				{
+					"sound": "entities/hoarding_bug/ellis_chitter_rare2.ogg",
+					"weight": 1
+				},
+				{
+					"sound": "entities/hoarding_bug/ellis_chitter_rare3.ogg",
+					"weight": 1
+				}
+			]
+		},
+		{
+            "matches": "HoarderBug:Fly",
+            "sounds": [
+                {
+                    "sound": "entities/hoarding_bug/ellis_fly01.ogg",
+					"weight": 3
+                },
+                {
+                    "sound": "entities/hoarding_bug/ellis_fly02.ogg",
+					"weight": 3
+                },
+                {
+                    "sound": "entities/hoarding_bug/ellis_fly03.ogg",
+					"weight": 3
+                },
+                {
+                    "sound": "entities/hoarding_bug/ellis_fly04.ogg",
+					"weight": 3
+                },
+                {
+                    "sound": "entities/hoarding_bug/ellis_fly_rare.ogg",
+					"weight": 1
+                }
+            ]
+        },
+        {
+            "matches": "HoarderBug:BugWalk1",
+            "sounds": [
+                {
+                    "sound": "entities/hoarding_bug/ellis_step1.ogg",
+					"weight": 1
+                }
+            ]
+        },
+        {
+            "matches": "HoarderBug:BugWalk2",
+            "sounds": [
+                {
+                    "sound": "entities/hoarding_bug/ellis_step2.ogg",
+					"weight": 1
+                }
+            ]
+        },
+        {
+            "matches": "HoarderBug:BugWalk3",
+            "sounds": [
+                {
+                    "sound": "entities/hoarding_bug/ellis_step3.ogg",
+					"weight": 1
+                }
+            ]
+        },
+        {
+            "matches": "HoarderBug:BugWalk4",
+            "sounds": [
+                {
+                    "sound": "entities/hoarding_bug/ellis_step4.ogg",
+					"weight": 1
+                }
+            ]
+        },
+		{
+            "matches": [
+			   "Voice:AngryScreech",
+			   "Voice:AngryScreech2"
+			],
+            "sounds": [
+                {
+                    "sound": "entities/hoarding_bug/ellis_anger1.ogg",
+					"weight": 1
+                },
+                {
+                    "sound": "entities/hoarding_bug/ellis_anger2.ogg",
+					"weight": 1
+                },
+                {
+                    "sound": "entities/hoarding_bug/ellis_anger3.ogg",
+					"weight": 1
+                },
+                {
+                    "sound": "entities/hoarding_bug/ellis_anger4.ogg",
+					"weight": 1
+                },
+                {
+                    "sound": "entities/hoarding_bug/ellis_anger5.ogg",
+					"weight": 1
+                },
+                {
+                    "sound": "entities/hoarding_bug/ellis_anger6.ogg",
+					"weight": 1
+                },
+            ]
+        }
+    ]
+}

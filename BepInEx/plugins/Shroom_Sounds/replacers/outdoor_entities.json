@@ -1,0 +1,72 @@
+{
+    "randomness": {
+        "type": "determinstic"
+    },
+	"replacements": [
+		{
+			"matches": "VoiceAudio:growl",
+			"sounds": [
+				{
+					"sound": "entities/eyeless_dog/growl.ogg",
+					"weight": 90
+				},
+				{
+					"sound": "entities/eyeless_dog/growl_rare.ogg",
+					"weight": 10
+				}
+			]
+		},
+		{
+			"matches": "VoiceAudio:KillPlayer",
+			"sounds": [
+				{
+					"sound": "entities/eyeless_dog/KillPlayer.ogg",
+					"weight": 1
+				}
+			]
+		},
+		{
+            "matches": "AngrySFX:BeesAngry",
+            "sounds": [
+                {
+                    "sound": "entities/bees/BeesAngry4_1.ogg",
+					"weight": 1
+                },
+                {
+                    "sound": "entities/bees/BeesAngry4_2.ogg",
+					"weight": 1
+                }
+            ]
+        },
+        {
+            "matches": "DefendingSFX:BeesDefensive",
+            "sounds": [
+                {
+                    "sound": "entities/bees/BeesDefensive4_1.ogg",
+					"weight": 1
+                },
+                {
+                    "sound": "entities/bees/BeesDefensive4_2.ogg",
+					"weight": 1
+                }
+            ]
+        },
+        {
+            "matches": "IdleSFX:BeeHiveIdle",
+            "sounds": [
+                {
+                    "sound": "entities/bees/BeesIdle4_1.ogg",
+					"weight": 1
+                },
+                {
+                    "sound": "entities/bees/BeesIdle4_2.ogg",
+					"weight": 1
+                },
+                {
+                    "sound": "entities/bees/BeesIdle4_3.ogg",
+					"weight": 1
+                }
+            ]
+        }
+	]
+}

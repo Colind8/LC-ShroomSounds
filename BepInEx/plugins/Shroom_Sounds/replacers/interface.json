@@ -1,0 +1,100 @@
+{
+	"randomness": {
+		"type": "determinstic"
+	},
+	"replacements": [
+		{
+		  "matches": "Audios:UIAudio:ReachedQuotaSFX",
+		  "sounds": [
+				{
+				  "sound": "interface/quota_reached/ReachedQuotaSFX.ogg",
+				  "weight": 1
+				},
+				{
+				  "sound": "interface/quota_reached/ReachedQuotaSFX-pvzwin.ogg",
+				  "weight": 1
+				},
+				{
+				  "sound": "interface/quota_reached/ReachedQuotaSFX-themonsterswithout.ogg",
+				  "weight": 1
+				},
+				{
+				  "sound": "interface/quota_reached/ReachedQuotaSFX-themonsterswithout-l4d1.ogg",
+				  "weight": 1
+				}
+		  ]
+		},
+		{
+			"matches":"Audios:UIAudio:GlobalNotificationSFX",
+			"sounds": [
+				{
+					"sound": "interface/notification/notif.ogg",
+					"weight": 4
+				},
+				{
+					"sound": "interface/notification/notif_drg1.ogg",
+					"weight": 1
+				},
+				{
+					"sound": "interface/notification/notif_drg2.ogg",
+					"weight": 1
+				}
+			]
+		},
+		{
+			"matches":"DepositCounter:Music:RewardMid",
+			"sounds": [
+				{
+					"sound": "interface/reward/nice.ogg",
+					"weight": 1
+				},
+				{
+					"sound": "interface/reward/rockin.ogg",
+					"weight": 1
+				},
+				{
+					"sound": "interface/reward/awesome.ogg",
+					"weight": 1
+				}
+			]
+		},
+		{
+			"matches":"DepositCounter:Music:RewardGood",
+			"sounds": [
+				{
+					"sound": "interface/reward/excellent.ogg",
+					"weight": 2
+				},
+				{
+					"sound": "interface/reward/groovy.ogg",
+					"weight": 2
+				},
+				{
+					"sound": "interface/reward/tubular.ogg",
+					"weight": 2
+				},
+				{
+					"sound": "interface/reward/nice.ogg",
+					"weight": 1
+				},
+				{
+					"sound": "interface/reward/rockin.ogg",
+					"weight": 1
+				},
+				{
+					"sound": "interface/reward/awesome.ogg",
+					"weight": 1
+				}
+			]
+		},
+		{
+			"matches":"Audios:UIAudio:CollectScrapSmall",
+			"sounds": [
+				{
+					"sound": "interface/notification/item_collect.ogg",
+					"weight": 1
+				}
+			]
+		}
+	]
+}
