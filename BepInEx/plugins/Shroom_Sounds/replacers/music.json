@@ -378,28 +378,32 @@
 			"matches": "Audios:UIAudio:AllPlayersDead",
 			"sounds": [
 				{
-				  "sound": "music/all_dead/dead_l4d2.ogg",
-				  "weight": 1
+					"sound": "music/all_dead/dead_l4d2.ogg",
+					"weight": 1
 				},
 				{
-				  "sound": "music/all_dead/dead_priceisright.ogg",
-				  "weight": 1
+					"sound": "music/all_dead/dead_priceisright.ogg",
+					"weight": 1
 				},
 				{
-				  "sound": "music/all_dead/dead_pvz.ogg",
-				  "weight": 1
+					"sound": "music/all_dead/dead_pvz.ogg",
+					"weight": 1
 				},
 				{
-				  "sound": "music/all_dead/dead_vib.ogg",
-				  "weight": 1
+					"sound": "music/all_dead/dead_vib.ogg",
+					"weight": 1
 				},
 				{
-				  "sound": "music/all_dead/dead_nsmbw.ogg",
-				  "weight": 1
+					"sound": "music/all_dead/dead_nsmbw.ogg",
+					"weight": 1
 				},
 				{
-				  "sound": "music/all_dead/dead_sonic3.ogg",
-				  "weight": 1
+					"sound": "music/all_dead/dead_sonic3.ogg",
+					"weight": 1
+				},
+				{
+					"sound": "music/all_dead/dead_tf2.ogg",
+					"weight": 1
 				}
 			]
 		},
