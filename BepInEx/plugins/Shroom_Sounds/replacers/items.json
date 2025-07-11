@@ -59,6 +59,32 @@
                     "weight": 1
                 }
 			]
+		},
+		{
+			"matches": [
+				"TragedyMask/ComedyMask:MaskCry1",
+				"TragedyMask/ComedyMask:MaskCry2",
+				"TragedyMask/ComedyMask:MaskCry3",
+				"TragedyMask/ComedyMask:MaskCry4"
+			],
+            "sounds": [
+				{
+                    "sound": "items/tragedy_mask/freddy1.ogg",
+                    "weight": 15
+                },
+				{
+                    "sound": "items/tragedy_mask/freddy2.ogg",
+                    "weight": 15
+                },
+				{
+                    "sound": "items/tragedy_mask/freddy3.ogg",
+                    "weight": 15
+                },
+				{
+                    "sound": "items/tragedy_mask/freddy_rare.ogg",
+                    "weight": 1
+                }
+			]
 		}
     ]
 }
