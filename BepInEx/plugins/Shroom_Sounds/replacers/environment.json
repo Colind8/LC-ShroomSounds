@@ -32,6 +32,15 @@
 					"weight": 1
 				}
 			]
+		},
+		{
+			"matches": "MapPropsContainer:LungApparatus:LungMachineDisconnect",
+			"sounds": [
+				{
+					"sound": "environment/apparatus/apparatus_pull.ogg",
+					"weight": 1
+				}
+			]
 		}
 	]
 }
