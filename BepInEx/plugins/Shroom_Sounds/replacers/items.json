@@ -33,9 +33,10 @@
         },
 		{
 			"matches": [
-				"TragedyMask/ComedyMask:MaskLaugh1",
-				"TragedyMask/ComedyMask:MaskLaugh2",
-				"TragedyMask/ComedyMask:MaskLaugh3"
+				"*:ComedyMask:MaskLaugh1",
+				"*:ComedyMask:MaskLaugh2",
+				"*:ComedyMask:MaskLaugh3",
+				"*:ComedyMask:Laugh1"
 			],
             "sounds": [
 				{
@@ -62,10 +63,10 @@
 		},
 		{
 			"matches": [
-				"TragedyMask/ComedyMask:MaskCry1",
-				"TragedyMask/ComedyMask:MaskCry2",
-				"TragedyMask/ComedyMask:MaskCry3",
-				"TragedyMask/ComedyMask:MaskCry4"
+				"*:TragedyMask:MaskCry1",
+				"*:TragedyMask:MaskCry2",
+				"*:TragedyMask:MaskCry3",
+				"*:TragedyMask:MaskCry4"
 			],
             "sounds": [
 				{
