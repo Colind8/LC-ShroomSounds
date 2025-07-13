@@ -34,7 +34,7 @@
 			]
 		},
 		{
-			"matches": "MapPropsContainer:LungApparatus:LungMachineDisconnect",
+			"matches": "Props:LungApparatus:LungMachineDisconnect",
 			"sounds": [
 				{
 					"sound": "environment/apparatus/apparatus_pull.ogg",
