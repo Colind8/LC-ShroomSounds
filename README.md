@@ -1,7 +1,7 @@
 # Shroom Sounds
 This soundpack is heavily inspired by [CookiesSounds](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesSounds/). Think of this soundpack as a slightly updated version.
 
-More sound changes will come soon!
+Currently at 208 sounds. More sound changes will come soon!
 
 ## Changes:
 - Intro Speech
@@ -33,10 +33,12 @@ More sound changes will come soon!
   - Thumper
 - Environment
   - Vent sounds
+  - Apparatus
 - Item sounds
   - Radar Booster
   - Ship Clipboard
   - TZP-Inhalant
+  - Comedy / Tragedy Masks
 
 # Specific changes / sources
 All sounds that I graciously "borrowed" from other soundpacks will be credited.
@@ -79,6 +81,7 @@ All sounds that I graciously "borrowed" from other soundpacks will be credited.
 - Game Over theme from Plants Vs. Zombies
 - Game Over theme from Sonic the Hedgehog 3
 - Game Over theme from Vib-Ribbon
+- Failure theme from Team Fortress 2
 
 ### Ambient Music
 - The original ambient tracks can play
@@ -188,6 +191,10 @@ Vent Crawl: (sound that plays when a monster is shuffling around a vent)
 Vent Spawn: (sound that plays when a monster spawns from a vent)
 - A New Challenger Has Appeared! guitar riff from Five Nights at Freddy's Ultimate Custom Night
 
+### Apparatus
+When apparatus is pulled:
+- Powerdown sound from Five Night's at Freddy's
+
 ### Radar Booster
 - Crazy Dave's gibberish from Plants vs. Zombies when pinged (borrowed from [CookiesSounds](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesSounds/))
 
@@ -197,3 +204,10 @@ Vent Spawn: (sound that plays when a monster spawns from a vent)
 
 ### TZP-Inhalant
 - Replaces the inhale sound with a bong rip (borrowed from [MemetasticAudio](https://thunderstore.io/c/lethal-company/p/JacuJ/MemetasticAudio/))
+
+### Comedy / Tragedy Masks
+Comedy Mask Laugh:
+- Dagoth Ur voicelines/laughs from The Elder Scrolls III: Morrowind
+
+Tragedy Mask Cry:
+- Freddy's laugh from Five Night's at Freddy's
