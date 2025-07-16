@@ -1,4 +1,38 @@
 {
     "name": "Shroom_Sounds",
-	"version": "1.3.0"
+	"version": "1.4.0",
+	"config": {
+		"_Main:DMCA" {
+			"description": "Set to false to DISABLE all potentially copyrighted sounds.",
+			"default": true
+		},
+		"_Main:FamilyFriendly" {
+			"description": "Set to false to DISABLE all non-family friendly sounds.",
+			"default": true
+		},
+		"_Main:Music": {
+			"description": "Toggle all sound changes in the Music category.",
+			"default": true
+		},
+		"_Main:IndoorEntities" {
+			"description": "Toggle all sound changes for indoor entities",
+			"default": true
+		},
+		"_Main:OutdoorEntities" {
+			"description": "Toggle all sound changes for outdoor entities",
+			"default": true
+		},
+		"_Main:Traps" {
+			"description": "Toggle all sound changes for traps",
+			"default": true
+		},
+		"_Main:Interface" {
+			"description": "Toggle all sound changes for the interface",
+			"default": true
+		},
+		"_Main:Environment" {
+			"description": "Toggle all sound changes for the environment",
+			"default": true
+		}
+	}
 }

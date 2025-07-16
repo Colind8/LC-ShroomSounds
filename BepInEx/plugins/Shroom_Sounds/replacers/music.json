@@ -2,6 +2,10 @@
 	"randomness": {
 		"type": "determinstic"
 	},
+	"condition": {
+		"type": "config",
+		"config": "_Main:Music"
+	},
 	"replacements": [
 		{
 			"matches": "SoundManager:OutsideMusic:AmbientMusic5",
@@ -315,6 +319,10 @@
 		},
 		{
 			"matches": "Boombox:BoomboxMusic1",
+			"condition": {
+				"type": "config",
+				"config": "_Main:DMCA"
+			},
 			"sounds": [
 				{
 				  "sound": "music/boombox/boombox1.ogg",
@@ -324,6 +332,10 @@
 		},
 		{
 			"matches": "Boombox:BoomboxMusic2",
+			"condition": {
+				"type": "config",
+				"config": "_Main:DMCA"
+			},
 			"sounds": [
 				{
 				  "sound": "music/boombox/boombox2.ogg",
@@ -333,6 +345,10 @@
 		},
 		{
 			"matches": "Boombox:BoomboxMusic3",
+			"condition": {
+				"type": "config",
+				"config": "_Main:DMCA"
+			},
 			"sounds": [
 				{
 				  "sound": "music/boombox/boombox3.ogg",
@@ -342,9 +358,26 @@
 		},
 		{
 			"matches": "Boombox:BoomboxMusic4",
+			"condition": {
+				"type": "config",
+				"config": "_Main:DMCA"
+			},
 			"sounds": [
 				{
 				  "sound": "music/boombox/boombox4.ogg",
+				  "weight": 1
+				}
+			]
+		},
+		{
+			"matches": "Boombox:BoomboxMusic5Zedfox",
+			"condition": {
+				"type": "config",
+				"config": "_Main:DMCA"
+			},
+			"sounds": [
+				{
+				  "sound": "music/boombox/boombox5.ogg",
 				  "weight": 1
 				}
 			]
@@ -383,6 +416,10 @@
 				},
 				{
 					"sound": "music/all_dead/dead_priceisright.ogg",
+					"condition": {
+						"type": "config",
+						"config": "_Main:DMCA"
+					},
 					"weight": 1
 				},
 				{

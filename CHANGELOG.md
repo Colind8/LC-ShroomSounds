@@ -1,7 +1,7 @@
 # v1.3.0
 - new sounds in 1.3.0:
   - Comedy Mask laugh sounds
-  - Tradgedy Mask cry sounds
+  - Tragedy Mask cry sounds
   - Apparatus Pull sound
   - New all players dead sound
 
