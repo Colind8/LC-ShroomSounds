@@ -38,7 +38,7 @@
 			"description": "Toggle all sound changes for items",
 			"default": true
 		},
-		"Music:LethalDefault": {
+		"Music:VanillaSounds": {
 			"description": "Set to false to DISABLE all vanilla Lethal Company music sounds.",
 			"default": true
 		},
@@ -76,6 +76,66 @@
 		},
 		"Music:RecordPlayer": {
 			"description": "Toggle the record player sound changes",
+			"default": true
+		},
+		"IndoorEntities:SoundCues": {
+			"description": "Toggle whether monsters can play sound cues",
+			"default": true
+		},
+		"IndoorEntities:SnareFleaStranglingMusic": {
+			"description": "Toggle the music that plays when a snare flea is strangling you",
+			"default": true
+		},
+		"IndoorEntities:GhostGirlChimes": {
+			"description": "Toggle the rare chance the ghost girl bell chime sound changes",
+			"default": true
+		},
+		"OutdoorEntities:SoundCues": {
+			"description": "Toggle whether monsters can play sound cues (only eyeless dog as of now)",
+			"default": true
+		},
+		"OutdoorEntities:EyelessDogEating": {
+			"description": "Toggle the eyeless dog eating sound change",
+			"default": true
+		},
+		"OutdoorEntities:Bees": {
+			"description": "Toggle the circuit bees sound changes",
+			"default": true
+		},
+		"Traps:Landmine": {
+			"description": "Toggle the landmine sound changes",
+			"default": true
+		},
+		"Traps:Turret": {
+			"description": "Toggle the turret sound changes",
+			"default": true
+		},
+		"Interface:VanillaSounds": {
+			"description": "Set to false to DISABLE all vanilla Lethal Company music sounds. (does not apply for the entity scanned sound)",
+			"default": true
+		},
+		"Interface:ReachedQuota": {
+			"description": "Toggle the reached quota sound changes",
+			"default": true
+		},
+		"Interface:EntityScanned": {
+			"description": "Toggle the entity scanned sound changes",
+			"default": true
+		},
+		"Interface:ScrapCollection": {
+			"description": "Toggle the scrap collection sound changes",
+			"default": true
+		},
+		"Interface:RewardTune": {
+			"description": "Toggle the reward tune sound changes",
+			"default": true
+		},
+		"Environment:Venting": {
+			"description": "Toggle the vent crawling sound changes",
+			"default": true
+		},
+		"Environment:Apparatus": {
+			"description": "Toggle apparatus sound changes",
 			"default": true
 		}
 	}

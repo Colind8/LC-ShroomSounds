@@ -3,8 +3,17 @@
         "type": "determinstic"
     },
 	"condition": {
-		"type": "config",
-		"config": "_Main:Traps"
+		"type": "and",
+		"conditions": [
+			{
+				"type": "config",
+				"config": "_Main:Traps"
+			},
+			{
+				"type": "config",
+				"config": "Traps:Turret"
+			}
+		]
 	},
     "replacements": [{
             "matches": "Gunfire:TurretActivate",

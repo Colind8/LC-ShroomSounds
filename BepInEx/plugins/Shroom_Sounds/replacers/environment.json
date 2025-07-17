@@ -9,6 +9,10 @@
 	"replacements": [
 		{
 			"matches": "VentEntrance:VentCrawl1",
+			"condition": {
+				"type": "config",
+				"config": "Environment:Venting"
+			},
 			"sounds": [
 				{
 				  "sound": "environment/vent/vent_crawl_deedee1.ogg",
@@ -30,6 +34,10 @@
 		},
 		{
 			"matches": "VentEntrance:VentOpen1",
+			"condition": {
+				"type": "config",
+				"config": "Environment:Venting"
+			},
 			"sounds": [
 				{
 					"sound": "environment/vent/vent_spawn.ogg",
@@ -39,6 +47,10 @@
 		},
 		{
 			"matches": "Props:LungApparatus:LungMachineDisconnect",
+			"condition": {
+				"type": "config",
+				"config": "Environment:Apparatus"
+			},
 			"sounds": [
 				{
 					"sound": "environment/apparatus/apparatus_pull.ogg",

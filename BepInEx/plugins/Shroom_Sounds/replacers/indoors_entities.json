@@ -9,6 +9,10 @@
 	"replacements": [
 		{
 			"matches": "Flowerman:Found1",
+			"condition": {
+				"type": "config",
+				"config": "IndoorEntities:SoundCues"
+			},
 			"sounds": [
 				{
 					"sound": "entities/bracken/found.ogg",
@@ -22,6 +26,10 @@
 		},
 		{
 			"matches": "Crawler:Stomp1",
+			"condition": {
+				"type": "config",
+				"config": "IndoorEntities:SoundCues"
+			},
 			"sounds": [
 				{
 					"sound": "entities/thumper/stomp1.ogg",
@@ -35,6 +43,10 @@
 		},
 		{
 			"matches": "CentipedeModel:SlamGround",
+			"condition": {
+				"type": "config",
+				"config": "IndoorEntities:SoundCues"
+			},
 			"sounds": [
 				{
 					"sound": "entities/snare_flea/slam_ground.ogg",
@@ -48,6 +60,10 @@
 		},
 		{
 			"matches": "Centipede:CentipedeModel:ClingToPlayer",
+			"condition": {
+				"type": "config",
+				"config": "IndoorEntities:SnareFleaStranglingMusic"
+			},
 			"sounds": [
 				{
 					"sound": "entities/snare_flea/vassalation.ogg",
@@ -57,6 +73,10 @@
 		},
 		{
 			"matches": "CentipedeModel:ClingToPlayer2DSFX:ClingToPlayerLocal",
+			"condition": {
+				"type": "config",
+				"config": "IndoorEntities:SnareFleaStranglingMusic"
+			},
 			"sounds": [
 				{
 					"sound": "entities/snare_flea/vassalation_local.ogg",
@@ -66,6 +86,10 @@
 		},
 		{
 			"matches": "VoiceSFX:SpringWobble1",
+			"condition": {
+				"type": "config",
+				"config": "IndoorEntities:SoundCues"
+			},
 			"sounds": [
 				{
 					"sound": "entities/coilhead/spring_wobble.ogg",
@@ -79,6 +103,10 @@
 		},
 		{
 			"matches": "VoiceSFX:Breathing",
+			"condition": {
+				"type": "config",
+				"config": "IndoorEntities:SoundCues"
+			},
 			"sounds": [
 				{
 					"sound": "entities/ghost_girl/breathing.ogg",
@@ -92,6 +120,10 @@
 		},
 		{
 			"matches": "*:BellChimeAmbience",
+			"condition": {
+				"type": "config",
+				"config": "IndoorEntities:GhostGirlChimes"
+			},
 			"sounds": [
 				{
 					"sound": "entities/ghost_girl/bellchimes.ogg",

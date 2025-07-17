@@ -23,7 +23,7 @@
 					"sound": "intro_speech/IntroCompanySpeech-10.ogg",
 					"condition": {
 						"type": "config",
-						"config": "Music:LethalDefault"
+						"config": "Music:VanillaSounds"
 					},
 					"weight": 1
 				},

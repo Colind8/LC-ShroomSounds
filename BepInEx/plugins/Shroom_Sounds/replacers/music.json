@@ -25,7 +25,7 @@
                     "sound": "music/ambient/AmbientMusic6.ogg",
                     "condition": {
                         "type": "config",
-                        "config": "Music:LethalDefault"
+                        "config": "Music:VanillaSounds"
                     },
                     "weight": 1
                 }
@@ -49,7 +49,7 @@
                     "sound": "music/ambient/AmbientMusic5.ogg",
                     "condition": {
                         "type": "config",
-                        "config": "Music:LethalDefault"
+                        "config": "Music:VanillaSounds"
                     },
                     "weight": 1
                 }
@@ -67,7 +67,7 @@
                     "sound": "music/ambient/AmbientMusic3.ogg",
                     "condition": {
                         "type": "config",
-                        "config": "Music:LethalDefault"
+                        "config": "Music:VanillaSounds"
                     },
                     "weight": 1
                 }
@@ -88,7 +88,7 @@
                     "sound": "music/ambient/AmbientMusic2.ogg",
                     "condition": {
                         "type": "config",
-                        "config": "Music:LethalDefault"
+                        "config": "Music:VanillaSounds"
                     },
                     "weight": 1
                 }
@@ -109,7 +109,7 @@
                     "sound": "music/ambient/AmbientMusic1.ogg",
                     "condition": {
                         "type": "config",
-                        "config": "Music:LethalDefault"
+                        "config": "Music:VanillaSounds"
                     },
                     "weight": 1
                 }
@@ -136,7 +136,7 @@
                     "sound": "music/company/CompanyBuildingMusic1.ogg",
                     "condition": {
                         "type": "config",
-                        "config": "Music:LethalDefault"
+                        "config": "Music:VanillaSounds"
                     },
                     "weight": 1
                 }
