@@ -64,6 +64,9 @@
                     "sound": "music/ambient/lower_brinstar.ogg",
                     "weight": 10
                 }, {
+                    "sound": "music/ambient/calamity.ogg",
+                    "weight": 10
+                }, {
                     "sound": "music/ambient/AmbientMusic3.ogg",
                     "condition": {
                         "type": "config",
