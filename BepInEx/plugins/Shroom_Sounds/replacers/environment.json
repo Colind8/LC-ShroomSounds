@@ -57,6 +57,19 @@
 					"weight": 1
 				}
 			]
+		},
+		{
+			"matches": "Audios:UIAudio:AlertHUD",
+			"condition": {
+				"type": "config",
+				"config": "Environment:Apparatus"
+			},
+			"sounds": [
+				{
+					"sound": "environment/apparatus/radiation_alert.ogg",
+					"weight": 1
+				}
+			]
 		}
 	]
 }
