@@ -2,6 +2,10 @@
     "randomness": {
         "type": "determinstic"
     },
+	"condition": {
+		"type": "config",
+		"config": "_Main:Items"
+	},
     "replacements": [
 		{
             "matches": "RadarBoosterDevice:BoosterPingAudio:GhostDevicePing",

@@ -2,6 +2,10 @@
 	"randomness": {
 		"type": "determinstic"
 	},
+	"condition": {
+		"type": "config",
+		"config": "_Main:Interface"
+	},
 	"replacements": [
 		{
 		  "matches": "Audios:UIAudio:ReachedQuotaSFX",

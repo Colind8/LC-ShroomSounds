@@ -1,16 +1,22 @@
 {
-	"randomness": {
-		"type": "determinstic"
-	},
-	"replacements": [
-		{
-		  "matches": "Audios:UIAudio:SuckedIntoSpace",
-		  "sounds": [
-				{
-				  "sound": "ejection/sucked_into_space.ogg",
-				  "weight": 1
-				}
-		  ]
-		}
-	]
+    "randomness": {
+        "type": "determinstic"
+    },
+    "condition": {
+        "type": "config",
+        "config": "_Main:Music"
+    },
+    "replacements": [{
+            "matches": "Audios:UIAudio:SuckedIntoSpace",
+            "condition": {
+                "type": "config",
+                "config": "Music:GameOver"
+            },
+            "sounds": [{
+                    "sound": "ejection/sucked_into_space.ogg",
+                    "weight": 1
+                }
+            ]
+        }
+    ]
 }

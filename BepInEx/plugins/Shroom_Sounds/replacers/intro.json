@@ -2,12 +2,29 @@
 	"randomness": {
 		"type": "determinstic"
 	},
+	"condition": {
+		"type": "and",
+		"conditions": [
+			{
+				"type": "config",
+				"config": "_Main:Music"
+			},
+			{
+				"type": "config",
+				"config": "Music:IntroSpeech"
+			}
+		]
+	},
 	"replacements": [
 		{
 			"matches": "Cube.005:SpeakerAudio:IntroCompanySpeech",
 			"sounds": [
 				{
 					"sound": "intro_speech/IntroCompanySpeech-10.ogg",
+					"condition": {
+						"type": "config",
+						"config": "Music:LethalDefault"
+					},
 					"weight": 1
 				},
 				{
@@ -16,6 +33,10 @@
 				},
 				{
 					"sound": "intro_speech/IntroCompanySpeech-Best-Friends-10.ogg",
+					"condition": {
+						"type": "config",
+						"config": "_Main:FamilyFriendly"
+					},
 					"weight": 1
 				},
 				{
@@ -40,6 +61,10 @@
 				},
 				{
 					"sound": "intro_speech/intro_fnaf.ogg",
+					"condition": {
+						"type": "config",
+						"config": "_Main:FamilyFriendly"
+					},
 					"weight": 1
 				},
 				{

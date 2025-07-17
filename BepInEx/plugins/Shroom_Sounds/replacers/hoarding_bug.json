@@ -2,6 +2,10 @@
     "randomness": {
         "type": "determinstic"
     },
+	"condition": {
+		"type": "config",
+		"config": "_Main:IndoorEntities"
+	},
     "replacements": [
 		{
 			"matches": [

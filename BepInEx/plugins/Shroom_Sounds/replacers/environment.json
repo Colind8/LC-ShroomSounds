@@ -2,6 +2,10 @@
 	"randomness": {
 		"type": "determinstic"
 	},
+	"condition": {
+		"type": "config",
+		"config": "_Main:Environment"
+	},
 	"replacements": [
 		{
 			"matches": "VentEntrance:VentCrawl1",

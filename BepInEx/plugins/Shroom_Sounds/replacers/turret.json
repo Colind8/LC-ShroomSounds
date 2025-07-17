@@ -2,6 +2,10 @@
     "randomness": {
         "type": "determinstic"
     },
+	"condition": {
+		"type": "config",
+		"config": "_Main:Traps"
+	},
     "replacements": [{
             "matches": "Gunfire:TurretActivate",
             "sounds": [{

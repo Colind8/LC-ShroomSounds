@@ -2,36 +2,80 @@
     "name": "Shroom_Sounds",
 	"version": "1.4.0",
 	"config": {
-		"_Main:DMCA" {
+		"_Main:DMCA": {
 			"description": "Set to false to DISABLE all potentially copyrighted sounds.",
 			"default": true
 		},
-		"_Main:FamilyFriendly" {
+		"_Main:FamilyFriendly": {
 			"description": "Set to false to DISABLE all non-family friendly sounds.",
 			"default": true
 		},
 		"_Main:Music": {
-			"description": "Toggle all sound changes in the Music category.",
+			"description": "Toggle all sound changes in the Music category",
 			"default": true
 		},
-		"_Main:IndoorEntities" {
+		"_Main:IndoorEntities": {
 			"description": "Toggle all sound changes for indoor entities",
 			"default": true
 		},
-		"_Main:OutdoorEntities" {
+		"_Main:OutdoorEntities": {
 			"description": "Toggle all sound changes for outdoor entities",
 			"default": true
 		},
-		"_Main:Traps" {
+		"_Main:Traps": {
 			"description": "Toggle all sound changes for traps",
 			"default": true
 		},
-		"_Main:Interface" {
+		"_Main:Interface": {
 			"description": "Toggle all sound changes for the interface",
 			"default": true
 		},
-		"_Main:Environment" {
+		"_Main:Environment": {
 			"description": "Toggle all sound changes for the environment",
+			"default": true
+		},
+		"_Main:Items": {
+			"description": "Toggle all sound changes for items",
+			"default": true
+		},
+		"Music:LethalDefault": {
+			"description": "Set to false to DISABLE all vanilla Lethal Company music sounds.",
+			"default": true
+		},
+		"Music:MainMenu": {
+			"description": "Toggle the menu music sound changes",
+			"default": true
+		},
+		"Music:IntroSpeech": {
+			"description": "Toggle the intro speech sound changes",
+			"default": true
+		},
+		"Music:AmbientMusic": {
+			"description": "Toggle the ambient music sound changes",
+			"default": true
+		},
+		"Music:StartOfDay": {
+			"description": "Toggle the changes of the sound cue that plays when you first leave the ship",
+			"default": true
+		},
+		"Music:GameOver": {
+			"description": "Toggle the music that plays when you fail to meet quota. Also includes the \"fired\" sound change.",
+			"default": true
+		},
+		"Music:AllPlayersDead": {
+			"description": "Toggle the All Players Dead stinger sound changes",
+			"default": true
+		},
+		"Music:DropPod": {
+			"description": "Toggle the drop pod music sound changes",
+			"default": true
+		},
+		"Music:Boombox": {
+			"description": "Toggle the boombox music sound changes",
+			"default": true
+		},
+		"Music:RecordPlayer": {
+			"description": "Toggle the record player sound changes",
 			"default": true
 		}
 	}

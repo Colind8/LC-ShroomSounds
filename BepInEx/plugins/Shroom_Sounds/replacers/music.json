@@ -1,458 +1,478 @@
 {
-	"randomness": {
-		"type": "determinstic"
-	},
-	"condition": {
-		"type": "config",
-		"config": "_Main:Music"
-	},
-	"replacements": [
-		{
-			"matches": "SoundManager:OutsideMusic:AmbientMusic5",
-			"sounds": [
-				{
-				  "sound": "music/ambient/starbound1.ogg",
-				  "weight": 10
-				},
-				{
-				  "sound": "music/ambient/starbound2.ogg",
-				  "weight": 10
-				},
-				{
-				  "sound": "music/ambient/starbound3.ogg",
-				  "weight": 10
-				},
-				{
-				  "sound": "music/ambient/AmbientMusic6.ogg",
-				  "weight": 1
-				}
-			]
-		},
-		{
-			"matches": "SoundManager:OutsideMusic:AmbientMusic4",
-			"sounds": [
-				{
-				  "sound": "music/ambient/minecraft1.ogg",
-				  "weight": 10
-				},
-				{
-				  "sound": "music/ambient/minecraft2.ogg",
-				  "weight": 10
-				},
-				{
-				  "sound": "music/ambient/minecraft3.ogg",
-				  "weight": 10
-				},
-				{
-				  "sound": "music/ambient/AmbientMusic5.ogg",
-				  "weight": 1
-				}
-			]
-		},
-		{
-			"matches": "SoundManager:OutsideMusic:AmbientMusic3",
-			"sounds": [
-				{
-				  "sound": "music/ambient/lower_brinstar.ogg",
-				  "weight": 10
-				},
-				{
-				  "sound": "music/ambient/AmbientMusic3.ogg",
-				  "weight": 1
-				}
-			]
-		},
-		{
-			"matches": "SoundManager:OutsideMusic:AmbientMusic2",
-			"sounds": [
-				{
-				  "sound": "music/ambient/factorio1.ogg",
-				  "weight": 10
-				},
-				{
-				  "sound": "music/ambient/factorio2.ogg",
-				  "weight": 10
-				},
-				{
-				  "sound": "music/ambient/AmbientMusic2.ogg",
-				  "weight": 1
-				}
-			]
-		},
-		{
-			"matches": "SoundManager:OutsideMusic:AmbientMusic1",
-			"sounds": [
-				{
-				  "sound": "music/ambient/barotrauma1.ogg",
-				  "weight": 10
-				},
-				{
-				  "sound": "music/ambient/barotrauma2.ogg",
-				  "weight": 10
-				},
-				{
-				  "sound": "music/ambient/AmbientMusic1.ogg",
-				  "weight": 1
-				}
-			]
-		},
-		{
-			"matches": "TimeAndWeather:TimeOfDayCue:CompanyBuildingMusic1",
-			"sounds": [
-				{
-				  "sound": "music/company/shop_castlecrashers.ogg",
-				  "weight": 1
-				},
-				{
-				  "sound": "music/company/shop_deltarune.ogg",
-				  "weight": 1
-				},
-				{
-				  "sound": "music/company/shop_undertale.ogg",
-				  "weight": 1
-				},
-				{
-				  "sound": "music/company/shop_ocarinaoftime.ogg",
-				  "weight": 1
-				},
-				{
-				  "sound": "music/company/CompanyBuildingMusic1.ogg",
-				  "weight": 1
-				}
-			]
-		},
-		{
-			"matches": "TimeAndWeather:TimeOfDayCue:StartOfDay",
-			"sounds": [
-				{
-				  "sound": "music/landing/alpha_omega1.ogg",
-				  "weight": 1
-				},
-				{
-				  "sound": "music/landing/alpha_omega2.ogg",
-				  "weight": 1
-				},
-				{
-				  "sound": "music/landing/beginning.ogg",
-				  "weight": 1
-				},
-				{
-				  "sound": "music/landing/buried1.ogg",
-				  "weight": 1
-				},
-				{
-				  "sound": "music/landing/cosmodrome1.ogg",
-				  "weight": 1
-				},
-				{
-				  "sound": "music/landing/cosmodrome2.ogg",
-				  "weight": 1
-				},
-				{
-				  "sound": "music/landing/cosmodrome3.ogg",
-				  "weight": 1
-				},
-				{
-				  "sound": "music/landing/cosmodrome4.ogg",
-				  "weight": 1
-				},
-				{
-				  "sound": "music/landing/dereisendrache1.ogg",
-				  "weight": 1
-				},
-				{
-				  "sound": "music/landing/dereisendrache2.ogg",
-				  "weight": 1
-				},
-				{
-				  "sound": "music/landing/moon1.ogg",
-				  "weight": 1
-				},
-				{
-				  "sound": "music/landing/moon2.ogg",
-				  "weight": 1
-				},
-				{
-				  "sound": "music/landing/moon3.ogg",
-				  "weight": 1
-				},
-				{
-				  "sound": "music/landing/moon4.ogg",
-				  "weight": 1
-				},
-				{
-				  "sound": "music/landing/nachtderuntoten1.ogg",
-				  "weight": 1
-				},
-				{
-				  "sound": "music/landing/nachtderuntoten2.ogg",
-				  "weight": 1
-				},
-				{
-				  "sound": "music/landing/origins1.ogg",
-				  "weight": 1
-				},
-				{
-				  "sound": "music/landing/origins2.ogg",
-				  "weight": 1
-				},
-				{
-				  "sound": "music/landing/origins3.ogg",
-				  "weight": 1
-				},
-				{
-				  "sound": "music/landing/origins4.ogg",
-				  "weight": 1
-				},
-				{
-				  "sound": "music/landing/origins5.ogg",
-				  "weight": 1
-				},
-				{
-				  "sound": "music/landing/origins6.ogg",
-				  "weight": 1
-				},
-				{
-				  "sound": "music/landing/origins7.ogg",
-				  "weight": 1
-				},
-				{
-				  "sound": "music/landing/shadowsofevil1.ogg",
-				  "weight": 1
-				},
-				{
-				  "sound": "music/landing/shadowsofevil2.ogg",
-				  "weight": 1
-				},
-				{
-				  "sound": "music/landing/shadowsofevil3.ogg",
-				  "weight": 1
-				},
-				{
-				  "sound": "music/landing/shadowsofevil4.ogg",
-				  "weight": 1
-				},
-				{
-				  "sound": "music/landing/shadowsofevil5.ogg",
-				  "weight": 1
-				},
-				{
-				  "sound": "music/landing/shadowsofevil6.ogg",
-				  "weight": 1
-				},
-				{
-				  "sound": "music/landing/shadowsofevil7.ogg",
-				  "weight": 1
-				},
-				{
-				  "sound": "music/landing/shadowsofevil8.ogg",
-				  "weight": 1
-				}
-			]
-		},
-		{
-			"matches": "HangarShip:HangarDoorAudioSource:DeadlineAlarm",
-			"sounds": [
-				{
-				  "sound": "music/game_over/alpha_omega.ogg",
-				  "weight": 5
-				},
-				{
-				  "sound": "music/game_over/buried.ogg",
-				  "weight": 1
-				},
-				{
-				  "sound": "music/game_over/classified.ogg",
-				  "weight": 5
-				},
-				{
-				  "sound": "music/game_over/der_eisendrache.ogg",
-				  "weight": 1
-				},
-				{
-				  "sound": "music/game_over/green_run.ogg",
-				  "weight": 1
-				},
-				{
-				  "sound": "music/game_over/moon.ogg",
-				  "weight": 1
-				},
-				{
-				  "sound": "music/game_over/revelations.ogg",
-				  "weight": 1
-				},
-				{
-				  "sound": "music/game_over/shadowsofevil.ogg",
-				  "weight": 5
-				},
-				{
-				  "sound": "music/game_over/tag_der_toten.ogg",
-				  "weight": 5
-				},
-				{
-				  "sound": "music/game_over/giant.ogg",
-				  "weight": 1
-				},
-				{
-				  "sound": "music/game_over/zetsubou.ogg",
-				  "weight": 1
-				}
-			]
-		},
-		{
-			"matches": "ItemShip:Music:IcecreamTruckV2",
-			"sounds": [
-				{
-				  "sound": "music/dropship/firesale.ogg",
-				  "weight": 1
-				}
-			]
-		},
-		{
-			"matches": "Music:Music:IcecreamTruckFar",
-			"sounds": [
-				{
-				  "sound": "music/dropship/firesale_far.ogg",
-				  "weight": 1
-				}
-			]
-		},
-		{
-			"matches": "Boombox:BoomboxMusic1",
+    "randomness": {
+        "type": "determinstic"
+    },
+    "condition": {
+        "type": "config",
+        "config": "_Main:Music"
+    },
+    "replacements": [{
+            "matches": "SoundManager:OutsideMusic:AmbientMusic5",
 			"condition": {
 				"type": "config",
-				"config": "_Main:DMCA"
+				"config": "Music:AmbientMusic"
 			},
-			"sounds": [
-				{
-				  "sound": "music/boombox/boombox1.ogg",
-				  "weight": 1
-				}
-			]
-		},
-		{
-			"matches": "Boombox:BoomboxMusic2",
+            "sounds": [{
+                    "sound": "music/ambient/starbound1.ogg",
+                    "weight": 10
+                }, {
+                    "sound": "music/ambient/starbound2.ogg",
+                    "weight": 10
+                }, {
+                    "sound": "music/ambient/starbound3.ogg",
+                    "weight": 10
+                }, {
+                    "sound": "music/ambient/AmbientMusic6.ogg",
+                    "condition": {
+                        "type": "config",
+                        "config": "Music:LethalDefault"
+                    },
+                    "weight": 1
+                }
+            ]
+        }, {
+            "matches": "SoundManager:OutsideMusic:AmbientMusic4",
 			"condition": {
 				"type": "config",
-				"config": "_Main:DMCA"
+				"config": "Music:AmbientMusic"
 			},
-			"sounds": [
-				{
-				  "sound": "music/boombox/boombox2.ogg",
-				  "weight": 1
-				}
-			]
-		},
-		{
-			"matches": "Boombox:BoomboxMusic3",
+            "sounds": [{
+                    "sound": "music/ambient/minecraft1.ogg",
+                    "weight": 10
+                }, {
+                    "sound": "music/ambient/minecraft2.ogg",
+                    "weight": 10
+                }, {
+                    "sound": "music/ambient/minecraft3.ogg",
+                    "weight": 10
+                }, {
+                    "sound": "music/ambient/AmbientMusic5.ogg",
+                    "condition": {
+                        "type": "config",
+                        "config": "Music:LethalDefault"
+                    },
+                    "weight": 1
+                }
+            ]
+        }, {
+            "matches": "SoundManager:OutsideMusic:AmbientMusic3",
 			"condition": {
 				"type": "config",
-				"config": "_Main:DMCA"
+				"config": "Music:AmbientMusic"
 			},
-			"sounds": [
-				{
-				  "sound": "music/boombox/boombox3.ogg",
-				  "weight": 1
-				}
-			]
-		},
-		{
-			"matches": "Boombox:BoomboxMusic4",
+            "sounds": [{
+                    "sound": "music/ambient/lower_brinstar.ogg",
+                    "weight": 10
+                }, {
+                    "sound": "music/ambient/AmbientMusic3.ogg",
+                    "condition": {
+                        "type": "config",
+                        "config": "Music:LethalDefault"
+                    },
+                    "weight": 1
+                }
+            ]
+        }, {
+            "matches": "SoundManager:OutsideMusic:AmbientMusic2",
 			"condition": {
 				"type": "config",
-				"config": "_Main:DMCA"
+				"config": "Music:AmbientMusic"
 			},
-			"sounds": [
-				{
-				  "sound": "music/boombox/boombox4.ogg",
-				  "weight": 1
-				}
-			]
-		},
-		{
-			"matches": "Boombox:BoomboxMusic5Zedfox",
+            "sounds": [{
+                    "sound": "music/ambient/factorio1.ogg",
+                    "weight": 10
+                }, {
+                    "sound": "music/ambient/factorio2.ogg",
+                    "weight": 10
+                }, {
+                    "sound": "music/ambient/AmbientMusic2.ogg",
+                    "condition": {
+                        "type": "config",
+                        "config": "Music:LethalDefault"
+                    },
+                    "weight": 1
+                }
+            ]
+        }, {
+            "matches": "SoundManager:OutsideMusic:AmbientMusic1",
 			"condition": {
 				"type": "config",
-				"config": "_Main:DMCA"
+				"config": "Music:AmbientMusic"
 			},
-			"sounds": [
-				{
-				  "sound": "music/boombox/boombox5.ogg",
-				  "weight": 1
-				}
-			]
-		},
-		{
-			"matches": "Canvas:MenuManager:Menu1",
-			"sounds": [
-				{
-				  "sound": "music/menu/l4d2_c1.ogg",
-				  "weight": 1
-				},
-				{
-				  "sound": "music/menu/l4d2_c2.ogg",
-				  "weight": 1
-				},
-				{
-				  "sound": "music/menu/l4d2_c3.ogg",
-				  "weight": 1
-				},
-				{
-				  "sound": "music/menu/l4d2_c4.ogg",
-				  "weight": 1
-				},
-				{
-				  "sound": "music/menu/l4d2_c5.ogg",
-				  "weight": 1
-				}
-			]
-		},
-		{
-			"matches": "Audios:UIAudio:AllPlayersDead",
-			"sounds": [
-				{
-					"sound": "music/all_dead/dead_l4d2.ogg",
-					"weight": 1
-				},
-				{
-					"sound": "music/all_dead/dead_priceisright.ogg",
-					"condition": {
+            "sounds": [{
+                    "sound": "music/ambient/barotrauma1.ogg",
+                    "weight": 10
+                }, {
+                    "sound": "music/ambient/barotrauma2.ogg",
+                    "weight": 10
+                }, {
+                    "sound": "music/ambient/AmbientMusic1.ogg",
+                    "condition": {
+                        "type": "config",
+                        "config": "Music:LethalDefault"
+                    },
+                    "weight": 1
+                }
+            ]
+        }, {
+            "matches": "TimeAndWeather:TimeOfDayCue:CompanyBuildingMusic1",
+			"condition": {
+				"type": "config",
+				"config": "Music:AmbientMusic"
+			},
+            "sounds": [{
+                    "sound": "music/company/shop_castlecrashers.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "music/company/shop_deltarune.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "music/company/shop_undertale.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "music/company/shop_ocarinaoftime.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "music/company/CompanyBuildingMusic1.ogg",
+                    "condition": {
+                        "type": "config",
+                        "config": "Music:LethalDefault"
+                    },
+                    "weight": 1
+                }
+            ]
+        }, {
+            "matches": "TimeAndWeather:TimeOfDayCue:StartOfDay",
+			"condition": {
+				"type": "config",
+				"config": "Music:StartOfDay"
+			},
+            "sounds": [{
+                    "sound": "music/landing/alpha_omega1.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "music/landing/alpha_omega2.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "music/landing/beginning.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "music/landing/buried1.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "music/landing/cosmodrome1.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "music/landing/cosmodrome2.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "music/landing/cosmodrome3.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "music/landing/cosmodrome4.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "music/landing/dereisendrache1.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "music/landing/dereisendrache2.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "music/landing/moon1.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "music/landing/moon2.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "music/landing/moon3.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "music/landing/moon4.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "music/landing/nachtderuntoten1.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "music/landing/nachtderuntoten2.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "music/landing/origins1.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "music/landing/origins2.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "music/landing/origins3.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "music/landing/origins4.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "music/landing/origins5.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "music/landing/origins6.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "music/landing/origins7.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "music/landing/shadowsofevil1.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "music/landing/shadowsofevil2.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "music/landing/shadowsofevil3.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "music/landing/shadowsofevil4.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "music/landing/shadowsofevil5.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "music/landing/shadowsofevil6.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "music/landing/shadowsofevil7.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "music/landing/shadowsofevil8.ogg",
+                    "weight": 1
+                }
+            ]
+        }, {
+            "matches": "HangarShip:HangarDoorAudioSource:DeadlineAlarm",
+			"condition": {
+				"type": "config",
+				"config": "Music:StartOfDay"
+			},
+            "sounds": [{
+                    "sound": "music/game_over/alpha_omega.ogg",
+                    "weight": 5
+                }, {
+                    "sound": "music/game_over/buried.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "music/game_over/classified.ogg",
+                    "weight": 5
+                }, {
+                    "sound": "music/game_over/der_eisendrache.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "music/game_over/green_run.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "music/game_over/moon.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "music/game_over/revelations.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "music/game_over/shadowsofevil.ogg",
+                    "weight": 5
+                }, {
+                    "sound": "music/game_over/tag_der_toten.ogg",
+                    "weight": 5
+                }, {
+                    "sound": "music/game_over/giant.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "music/game_over/zetsubou.ogg",
+                    "weight": 1
+                }
+            ]
+        }, {
+            "matches": "ItemShip:Music:IcecreamTruckV2",
+            "condition": {
+                "type": "config",
+                "config": "Music:DropPod"
+            },
+            "sounds": [{
+                    "sound": "music/dropship/firesale.ogg",
+                    "weight": 1
+                }
+            ]
+        }, {
+            "matches": "Music:Music:IcecreamTruckFar",
+            "condition": {
+                "type": "config",
+                "config": "Music:DropPod"
+            },
+            "sounds": [{
+                    "sound": "music/dropship/firesale_far.ogg",
+                    "weight": 1
+                }
+            ]
+        }, {
+            "matches": "Boombox:BoomboxMusic1",
+			"condition": {
+				"type": "and",
+				"conditions": [
+					{
 						"type": "config",
 						"config": "_Main:DMCA"
 					},
-					"weight": 1
-				},
-				{
-					"sound": "music/all_dead/dead_pvz.ogg",
-					"weight": 1
-				},
-				{
-					"sound": "music/all_dead/dead_vib.ogg",
-					"weight": 1
-				},
-				{
-					"sound": "music/all_dead/dead_nsmbw.ogg",
-					"weight": 1
-				},
-				{
-					"sound": "music/all_dead/dead_sonic3.ogg",
-					"weight": 1
-				},
-				{
-					"sound": "music/all_dead/dead_tf2.ogg",
-					"weight": 1
-				}
-			]
-		},
-		{
-			"matches": "RecordPlayerContainer:Audio:RecordPlayerJazz",
-			"sounds": [
-				{
-				  "sound": "music/record_player/the_palace_that_was_found.ogg",
-				  "weight": 1
-				}
-			]
-		}
-		
-	]
+					{
+						"type": "config",
+						"config": "Music:Boombox"
+					}
+				]
+			},
+            "sounds": [{
+                    "sound": "music/boombox/boombox1.ogg",
+                    "weight": 1
+                }
+            ]
+        }, {
+            "matches": "Boombox:BoomboxMusic2",
+			"condition": {
+				"type": "and",
+				"conditions": [
+					{
+						"type": "config",
+						"config": "_Main:DMCA"
+					},
+					{
+						"type": "config",
+						"config": "Music:Boombox"
+					}
+				]
+			},
+            "sounds": [{
+                    "sound": "music/boombox/boombox2.ogg",
+                    "weight": 1
+                }
+            ]
+        }, {
+            "matches": "Boombox:BoomboxMusic3",
+			"condition": {
+				"type": "and",
+				"conditions": [
+					{
+						"type": "config",
+						"config": "_Main:DMCA"
+					},
+					{
+						"type": "config",
+						"config": "Music:Boombox"
+					}
+				]
+			},
+            "sounds": [{
+                    "sound": "music/boombox/boombox3.ogg",
+                    "weight": 1
+                }
+            ]
+        }, {
+            "matches": "Boombox:BoomboxMusic4",
+			"condition": {
+				"type": "and",
+				"conditions": [
+					{
+						"type": "config",
+						"config": "_Main:DMCA"
+					},
+					{
+						"type": "config",
+						"config": "Music:Boombox"
+					}
+				]
+			},
+            "sounds": [{
+                    "sound": "music/boombox/boombox4.ogg",
+                    "weight": 1
+                }
+            ]
+        }, {
+            "matches": "Boombox:BoomboxMusic5Zedfox",
+			"condition": {
+				"type": "and",
+				"conditions": [
+					{
+						"type": "config",
+						"config": "_Main:DMCA"
+					},
+					{
+						"type": "config",
+						"config": "Music:Boombox"
+					}
+				]
+			},
+            "sounds": [{
+                    "sound": "music/boombox/boombox5.ogg",
+                    "weight": 1
+                }
+            ]
+        }, {
+            "matches": "Canvas:MenuManager:Menu1",
+			"condition": {
+				"type": "config",
+				"config": "Music:MainMenu"
+			},
+            "sounds": [{
+                    "sound": "music/menu/l4d2_c1.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "music/menu/l4d2_c2.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "music/menu/l4d2_c3.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "music/menu/l4d2_c4.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "music/menu/l4d2_c5.ogg",
+                    "weight": 1
+                }
+            ]
+        }, {
+            "matches": "Audios:UIAudio:AllPlayersDead",
+			"condition": {
+				"type": "config",
+				"config": "Music:AllPlayersDead"
+			},
+            "sounds": [{
+                    "sound": "music/all_dead/dead_l4d2.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "music/all_dead/dead_priceisright.ogg",
+                    "condition": {
+                        "type": "config",
+                        "config": "_Main:DMCA"
+                    },
+                    "weight": 1
+                }, {
+                    "sound": "music/all_dead/dead_pvz.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "music/all_dead/dead_vib.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "music/all_dead/dead_nsmbw.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "music/all_dead/dead_sonic3.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "music/all_dead/dead_tf2.ogg",
+                    "weight": 1
+                }
+            ]
+        }, {
+            "matches": "RecordPlayerContainer:Audio:RecordPlayerJazz",
+			"condition": {
+				"type": "config",
+				"config": "Music:RecordPlayer"
+			},
+            "sounds": [{
+                    "sound": "music/record_player/the_palace_that_was_found.ogg",
+                    "weight": 1
+                }
+            ]
+        }
+
+    ]
 }

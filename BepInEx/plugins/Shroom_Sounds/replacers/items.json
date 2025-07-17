@@ -2,6 +2,10 @@
     "randomness": {
         "type": "determinstic"
     },
+	"condition": {
+		"type": "config",
+		"config": "_Main:Items"
+	},
     "replacements": [
 		{
             "matches": [
@@ -19,14 +23,26 @@
                 },
 				{
                     "sound": "items/clipboard/clipboard_rare.ogg",
+					"condition": {
+						"type": "config",
+						"config": "_Main:FamilyFriendly"
+					},
                     "weight": 4
                 },
 				{
                     "sound": "items/clipboard/clipboard_legendary.ogg",
+					"condition": {
+						"type": "config",
+						"config": "_Main:FamilyFriendly"
+					},
                     "weight": 2
                 },
 				{
                     "sound": "items/clipboard/clipboard_unusual.ogg",
+					"condition": {
+						"type": "config",
+						"config": "_Main:FamilyFriendly"
+					},
                     "weight": 1
                 }
             ]
