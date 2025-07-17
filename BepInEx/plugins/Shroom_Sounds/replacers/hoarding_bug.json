@@ -3,8 +3,17 @@
         "type": "determinstic"
     },
 	"condition": {
-		"type": "config",
-		"config": "_Main:IndoorEntities"
+		"type": "and",
+		"conditions": [
+			{
+				"type": "config",
+				"config": "_Main:IndoorEntities"
+			},
+			{
+				"type": "config",
+				"config": "IndoorEntities:HoardingBug"
+			}
+		]
 	},
     "replacements": [
 		{

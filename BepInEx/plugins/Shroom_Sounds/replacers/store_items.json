@@ -9,6 +9,10 @@
     "replacements": [
 		{
             "matches": "RadarBoosterDevice:BoosterPingAudio:GhostDevicePing",
+			"condition": {
+				"type": "config",
+				"config": "Items:RadarBooster"
+			},
             "sounds": [{
                     "sound": "store_items/radar_booster/dave1.ogg",
                     "weight": 1
@@ -23,6 +27,19 @@
         },
 		{
             "matches": "TZPChemical:LocalHelmetSFX:ReleaseHelmetGas",
+			"condition": {
+				"type": "and",
+				"conditions": [
+					{
+						"type": "config",
+						"config": "_Main:FamilyFriendly"
+					},
+					{
+						"type": "config",
+						"config": "Items:TZPInhalent"
+					}
+				]
+			},
             "sounds": [{
                     "sound": "store_items/tzp_inhalent/ReleaseHelmetGas.ogg",
                     "weight": 1
@@ -31,6 +48,19 @@
         },
 		{
             "matches": "TZPChemical:LocalHelmetSFX:ReleaseHelmetGas2",
+			"condition": {
+				"type": "and",
+				"conditions": [
+					{
+						"type": "config",
+						"config": "_Main:FamilyFriendly"
+					},
+					{
+						"type": "config",
+						"config": "Items:TZPInhalent"
+					}
+				]
+			},
             "sounds": [{
                     "sound": "store_items/tzp_inhalent/ReleaseHelmetGas2.ogg",
                     "weight": 1

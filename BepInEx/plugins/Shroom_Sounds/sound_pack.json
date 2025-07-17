@@ -82,6 +82,10 @@
 			"description": "Toggle whether monsters can play sound cues",
 			"default": true
 		},
+		"IndoorEntities:HoardingBug": {
+			"description": "Toggle the hoarding bug sound changes (I wouldn't blame you)",
+			"default": true
+		},
 		"IndoorEntities:SnareFleaStranglingMusic": {
 			"description": "Toggle the music that plays when a snare flea is strangling you",
 			"default": true
@@ -136,6 +140,26 @@
 		},
 		"Environment:Apparatus": {
 			"description": "Toggle apparatus sound changes",
+			"default": true
+		},
+		"Items:RadarBooster": {
+			"description": "Toggle radar booster sound changes",
+			"default": true
+		},
+		"Items:TZPInhalent": {
+			"description": "Toggle TZP Inhalent sound changes",
+			"default": true
+		},
+		"Items:Clipboard": {
+			"description": "Toggle clipboard sound changes",
+			"default": true
+		},
+		"Items:ComedyMask": {
+			"description": "Toggle comedy mask changes",
+			"default": true
+		},
+		"Items:TragedyMask": {
+			"description": "Toggle tragedy mask changes",
 			"default": true
 		}
 	}

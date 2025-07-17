@@ -12,6 +12,10 @@
 				"HangarShip:ClipboardManual:PaperTurn1",
 				"HangarShip:ClipboardManual:PaperTurn2"
 			],
+			"condition": {
+				"type": "config",
+				"config": "Items:Clipboard"
+			},
             "sounds": [
 				{
                     "sound": "items/clipboard/clipboard_common.ogg",
@@ -54,6 +58,10 @@
 				"*:ComedyMask:MaskLaugh3",
 				"*:ComedyMask:Laugh1"
 			],
+			"condition": {
+				"type": "config",
+				"config": "Items:ComedyMask"
+			},
             "sounds": [
 				{
                     "sound": "items/comedy_mask/dagoth_ur_laugh1.ogg",
@@ -84,6 +92,10 @@
 				"*:TragedyMask:MaskCry3",
 				"*:TragedyMask:MaskCry4"
 			],
+			"condition": {
+				"type": "config",
+				"config": "Items:TragedyMask"
+			},
             "sounds": [
 				{
                     "sound": "items/tragedy_mask/freddy1.ogg",
