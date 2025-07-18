@@ -1,3 +1,14 @@
+# v1.4.0
+- 8 new sounds in 1.4.0:
+  - Furniture Moving sounds
+  - Change Suit sound
+  - New Boombox song (cyber milk chan - condensed milk)
+  - New Ambient music (DM DOKURO - sanctuary)
+  - Radiation Alert sound
+
+- Added extremely extensive configs!!! Now you can pick and choose whichever sounds you want just in case one annoys you or you want to combine soundpacks!
+- Reformatted the README to be more readable by mostly adding emojis.
+
 # v1.3.0
 - new sounds in 1.3.0:
   - Comedy Mask laugh sounds

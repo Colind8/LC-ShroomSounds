@@ -163,11 +163,15 @@
 			"default": true
 		},
 		"Items:ComedyMask": {
-			"description": "Toggle comedy mask changes",
+			"description": "Toggle comedy mask sound changes",
 			"default": true
 		},
 		"Items:TragedyMask": {
-			"description": "Toggle tragedy mask changes",
+			"description": "Toggle tragedy mask sound changes",
+			"default": true
+		},
+		"Terminal:ChangeSuit": {
+			"description": "Toggle suit change sound change",
 			"default": true
 		}
 	}

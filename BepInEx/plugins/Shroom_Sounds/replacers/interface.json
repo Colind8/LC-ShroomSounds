@@ -135,7 +135,7 @@
                 }
             ]
         }, {
-            "matches": "AnimContainer:PlacementCollider:MoveShipObjectBig",
+            "matches": "*:PlacementCollider:MoveShipObjectBig",
 			"condition": {
 				"type": "config",
 				"config": "Interface:FurnitureMoving"
