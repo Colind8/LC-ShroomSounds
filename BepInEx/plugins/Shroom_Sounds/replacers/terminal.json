@@ -1,0 +1,22 @@
+{
+    "randomness": {
+        "type": "determinstic"
+    },
+    "condition": {
+        "type": "config",
+        "config": "_Main:Terminal"
+    },
+    "replacements": [{
+            "matches": "Audios:MovementAudio:ChangeSuit",
+            "condition": {
+                "type": "config",
+                "config": "Terminal:ChangeSuit"
+            },
+            "sounds": [{
+                    "sound": "terminal/change_suit.ogg",
+                    "weight": 1
+                }
+            ]
+        }
+    ]
+}

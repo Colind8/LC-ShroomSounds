@@ -101,6 +101,50 @@
                     "weight": 1
                 }
             ]
+        }, {
+            "matches": "Audios:UIAudio:MoveShipObjectStart",
+			"condition": {
+				"type": "config",
+				"config": "Interface:FurnitureMoving"
+			},
+            "sounds": [{
+                    "sound": "interface/furniture/move_object_start.ogg",
+                    "weight": 1
+                }
+            ]
+        }, {
+            "matches": "Audios:UIAudio:MoveShipObjectCancel",
+			"condition": {
+				"type": "config",
+				"config": "Interface:FurnitureMoving"
+			},
+            "sounds": [{
+                    "sound": "interface/furniture/move_object_cancel.ogg",
+                    "weight": 1
+                }
+            ]
+        }, {
+            "matches": "Audios:UIAudio:MoveShipObjectDeny",
+			"condition": {
+				"type": "config",
+				"config": "Interface:FurnitureMoving"
+			},
+            "sounds": [{
+                    "sound": "interface/furniture/move_object_error.ogg",
+                    "weight": 1
+                }
+            ]
+        }, {
+            "matches": "AnimContainer:PlacementCollider:MoveShipObjectBig",
+			"condition": {
+				"type": "config",
+				"config": "Interface:FurnitureMoving"
+			},
+            "sounds": [{
+                    "sound": "interface/furniture/move_object_place.ogg",
+                    "weight": 1
+                }
+            ]
         }
     ]
 }

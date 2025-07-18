@@ -30,6 +30,10 @@
 			"description": "Toggle all sound changes for the interface",
 			"default": true
 		},
+		"_Main:Terminal": {
+			"description": "Toggle all sound changes for the terminal",
+			"default": true
+		},
 		"_Main:Environment": {
 			"description": "Toggle all sound changes for the environment",
 			"default": true
@@ -132,6 +136,10 @@
 		},
 		"Interface:RewardTune": {
 			"description": "Toggle the reward tune sound changes",
+			"default": true
+		},
+		"Interface:FurnitureMoving": {
+			"description": "Toggle the furniture moving sound changes",
 			"default": true
 		},
 		"Environment:Venting": {
