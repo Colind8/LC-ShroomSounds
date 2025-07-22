@@ -110,6 +110,10 @@
 			"description": "Toggle the circuit bees sound changes",
 			"default": true
 		},
+		"OutdoorEntities:BaboonHawk": {
+			"description": "Toggle the baboon hawk sound changes",
+			"default": true
+		},
 		"Traps:Landmine": {
 			"description": "Toggle the landmine sound changes",
 			"default": true

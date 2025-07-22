@@ -91,6 +91,296 @@
 					"weight": 1
                 }
             ]
+        },
+        {
+            "matches": [
+				"BaboonHawkEnemy:CreatureSFX:Footstep1",
+				"BaboonHawkEnemy:CreatureSFX:Footstep2",
+				"BaboonHawkEnemy:CreatureSFX:Footstep3",
+				"BaboonHawkEnemy:CreatureSFX:Footstep4",
+				"BaboonHawkEnemy:CreatureSFX:Footstep5"
+			],
+			"condition": {
+				"type": "config",
+				"config": "OutdoorEntities:BaboonHawk"
+			},
+            "sounds": [
+                {
+                    "sound": "entities/baboon_hawk/Censor2L_Walk_Run_01.ogg",
+					"weight": 1
+                },
+                {
+                    "sound": "entities/baboon_hawk/Censor2L_Walk_Run_02.ogg",
+					"weight": 1
+                },
+                {
+                    "sound": "entities/baboon_hawk/Censor2L_Walk_Run_03.ogg",
+					"weight": 1
+                },
+                {
+                    "sound": "entities/baboon_hawk/Censor2L_Walk_Run_06.ogg",
+					"weight": 1
+                },
+                {
+                    "sound": "entities/baboon_hawk/Censor2L_JumpLanding_02.ogg",
+					"weight": 1
+                }
+            ]
+        },
+        {
+            "matches": [
+				"BaboonHawkEnemy:CreatureVoice:CawScream1",
+				"BaboonHawkEnemy:CreatureVoice:CawScream2",
+				"BaboonHawkEnemy:CreatureVoice:CawScream3",
+				"BaboonHawkEnemy:CreatureVoice:CawScream4",
+				"BaboonHawkEnemy:CreatureVoice:CawScream5",
+				"BaboonHawkEnemy:CreatureVoice:Caw1"
+			],
+			"condition": {
+				"type": "config",
+				"config": "OutdoorEntities:BaboonHawk"
+			},
+            "sounds": [
+                {
+                    "sound": "entities/baboon_hawk/CensorPatrolREV_01.ogg",
+					"weight": 1
+                },
+                {
+                    "sound": "entities/baboon_hawk/CensorPatrolREV_02.ogg",
+					"weight": 1
+                },
+                {
+                    "sound": "entities/baboon_hawk/CensorPatrolREV_03.ogg",
+					"weight": 1
+                },
+                {
+                    "sound": "entities/baboon_hawk/CensorPatrolREV_04.ogg",
+					"weight": 1
+                },
+                {
+                    "sound": "entities/baboon_hawk/CensorMiss_01.ogg",
+					"weight": 3
+                },
+                {
+                    "sound": "entities/baboon_hawk/CensorMiss_02.ogg",
+					"weight": 3
+                },
+				{
+                    "sound": "entities/baboon_hawk/censor_no1.ogg",
+					"weight": 2
+                },
+                {
+                    "sound": "entities/baboon_hawk/censor_no2.ogg",
+					"weight": 2
+                },
+                {
+                    "sound": "entities/baboon_hawk/censor_no3.ogg",
+					"weight": 2
+                },
+                {
+                    "sound": "entities/baboon_hawk/censor_no4.ogg",
+					"weight": 2
+                },
+                {
+                    "sound": "entities/baboon_hawk/censor_no5.ogg",
+					"weight": 2
+                }
+            ]
+        },
+        {
+            "matches": [
+				"BaboonHawkEnemy:AggressionSFX:CawScream1",
+				"BaboonHawkEnemy:AggressionSFX:CawScream2",
+				"BaboonHawkEnemy:AggressionSFX:CawScream3",
+				"BaboonHawkEnemy:AggressionSFX:CawScream4",
+				"BaboonHawkEnemy:AggressionSFX:CawScream5",
+				"BaboonHawkEnemy:AggressionSFX:Caw1"
+			],
+			"condition": {
+				"type": "config",
+				"config": "OutdoorEntities:BaboonHawk"
+			},
+            "sounds": [
+                {
+                    "sound": "entities/baboon_hawk/censor_no1.ogg",
+					"weight": 1
+                },
+                {
+                    "sound": "entities/baboon_hawk/censor_no2.ogg",
+					"weight": 1
+                },
+                {
+                    "sound": "entities/baboon_hawk/censor_no3.ogg",
+					"weight": 1
+                },
+                {
+                    "sound": "entities/baboon_hawk/censor_no4.ogg",
+					"weight": 1
+                },
+                {
+                    "sound": "entities/baboon_hawk/censor_no5.ogg",
+					"weight": 1
+                }
+            ]
+        },
+        {
+            "matches": [
+				"BaboonHawkEnemy:CreatureSFX:BaboonTakeDamage"
+			],
+			"condition": {
+				"type": "config",
+				"config": "OutdoorEntities:BaboonHawk"
+			},
+            "sounds": [
+                {
+                    "sound": "entities/baboon_hawk/Censor1L_Damage_01.ogg",
+					"weight": 1
+                },
+                {
+                    "sound": "entities/baboon_hawk/Censor2L_Damage_01.ogg",
+					"weight": 1
+                },
+                {
+                    "sound": "entities/baboon_hawk/Censor2L_Damage_02.ogg",
+					"weight": 1
+                },
+                {
+                    "sound": "entities/baboon_hawk/Censor2L_Damage_03.ogg",
+					"weight": 1
+                },
+                {
+                    "sound": "entities/baboon_hawk/Censor2L_Damage_04.ogg",
+					"weight": 1
+                }
+            ]
+        },
+        {
+            "matches": [
+				"BaboonHawkEnemy:CreatureSFX:BaboonStab"
+			],
+			"condition": {
+				"type": "config",
+				"config": "OutdoorEntities:BaboonHawk"
+			},
+            "sounds": [
+                {
+                    "sound": "entities/baboon_hawk/censor_hit.ogg",
+					"weight": 1
+                }
+            ]
+        },
+        {
+            "matches": [
+				"BaboonHawkEnemy:CreatureVoice:BaboonKill"
+			],
+			"condition": {
+				"type": "config",
+				"config": "OutdoorEntities:BaboonHawk"
+			},
+            "sounds": [
+                {
+                    "sound": "entities/baboon_hawk/baboon_kill1.ogg",
+					"weight": 1
+                },
+                {
+                    "sound": "entities/baboon_hawk/baboon_kill2.ogg",
+					"weight": 1
+                },
+                {
+                    "sound": "entities/baboon_hawk/baboon_kill3.ogg",
+					"weight": 1
+                },
+                {
+                    "sound": "entities/baboon_hawk/baboon_kill4.ogg",
+					"weight": 1
+                }
+            ]
+        },
+        {
+            "matches": [
+				"BaboonHawkEnemy:AggressionSFX:BaboonEnterFight"
+			],
+			"condition": {
+				"type": "config",
+				"config": "OutdoorEntities:BaboonHawk"
+			},
+            "sounds": [
+                {
+                    "sound": "entities/baboon_hawk/CensorSonicAttack.ogg",
+					"weight": 1
+                }
+            ]
+        },
+        {
+            "matches": [
+				"BaboonHawkEnemy:CreatureVoice:KillBaboon"
+			],
+			"condition": {
+				"type": "config",
+				"config": "OutdoorEntities:BaboonHawk"
+			},
+            "sounds": [
+                {
+                    "sound": "entities/baboon_hawk/Censor_Death_01.ogg",
+					"weight": 1
+                },
+                {
+                    "sound": "entities/baboon_hawk/Censor_Death_02.ogg",
+					"weight": 1
+                },
+                {
+                    "sound": "entities/baboon_hawk/Censor_Death_03.ogg",
+					"weight": 1
+                }
+            ]
+        },
+        {
+            "matches": [
+				"BaboonHawkEnemy:CreatureVoice:Squeak1",
+				"BaboonHawkEnemy:CreatureVoice:Squeak2"
+			],
+			"condition": {
+				"type": "config",
+				"config": "OutdoorEntities:BaboonHawk"
+			},
+            "sounds": [
+                {
+                    "sound": "entities/baboon_hawk/CensorGeronimo.ogg",
+					"weight": 1
+                },
+                {
+                    "sound": "entities/baboon_hawk/CensorRecovery.ogg",
+					"weight": 1
+                },
+                {
+                    "sound": "entities/baboon_hawk/CensorLifted.ogg",
+					"weight": 1
+                }
+            ]
+        },
+        {
+            "matches": [
+				"BaboonHawkEnemy:AggressionSFX:Squeak1",
+				"BaboonHawkEnemy:AggressionSFX:Squeak2"
+			],
+			"condition": {
+				"type": "config",
+				"config": "OutdoorEntities:BaboonHawk"
+			},
+            "sounds": [
+                {
+                    "sound": "entities/baboon_hawk/CensorGeronimo.ogg",
+					"weight": 1
+                },
+                {
+                    "sound": "entities/baboon_hawk/CensorCantSeeRaz_01.ogg",
+					"weight": 1
+                },
+                {
+                    "sound": "entities/baboon_hawk/CensorCantSeeRaz_02.ogg",
+					"weight": 1
+                }
+            ]
         }
 	]
 }
