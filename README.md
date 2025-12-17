@@ -197,6 +197,7 @@ The following below are round starts and game starts. (borrowed from [CookiesSou
 ### 👻 Ghost Girl
 - Rarely plays the 6AM bell chime from Five Nights at Freddy's (borrowed from [CookiesSounds](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesSounds/))
 - Rarely plays Deathcard Cabin (Reprise) from Inscryption when breathing (borrowed from [CookiesSounds](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesSounds/))
+- All voice lines (laughs, breaths, and wheezes) replaced with ghost sounds from Luigi's Mansion 1 and 2.
 
 ### 🐛 Hoarding bug
 - Nearly all sounds are voice lines of Ellis from Left 4 Dead 2 (inspired by [EllisStories](https://thunderstore.io/c/lethal-company/p/SpenceyWenC/EllisStories/))
@@ -261,7 +262,7 @@ Tragedy Mask Cry:
 ### Loadstone
 Loading Music replaced with the following:
 - Online Lobby music from Castle Crashers
-- Costington's Mansion from Scooby-Doo and the Spooky Swamp
+- Costington's Mansion from Scooby-Doo and the Spooky Swamp (inspired by [TeaisntsSillySounds](https://thunderstore.io/c/lethal-company/p/Teaisnt/TeaisntsSillySounds/))
 - Miiverse Loading theme
 - Lobby music from Splatoon
 - Memory of Forgathering Dream from Touhou 12.3: Unthinkable Natural Law

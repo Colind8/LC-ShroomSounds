@@ -2,6 +2,7 @@
 - new sounds in 1.5.0:
   - Baboon Hawk sounds
   - Loadstone Loading Music
+  - Ghost Girl sounds
 
 # v1.4.0
 - 8 new sounds in 1.4.0:

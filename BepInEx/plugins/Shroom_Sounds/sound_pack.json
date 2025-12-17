@@ -102,6 +102,10 @@
 			"description": "Toggle the rare chance the ghost girl bell chime sound changes",
 			"default": true
 		},
+		"IndoorEntities:GhostGirl": {
+			"description": "Toggle the ghost girl sound changes.",
+			"default": true
+		},
 		"OutdoorEntities:SoundCues": {
 			"description": "Toggle whether monsters can play sound cues (only eyeless dog as of now)",
 			"default": true
