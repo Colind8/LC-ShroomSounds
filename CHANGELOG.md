@@ -2,9 +2,12 @@
 - new sounds in 1.5.0:
   - Baboon Hawk sounds
   - Loadstone Loading Music
-  - Ghost Girl sounds (also fixed broken ghost girl sounds)
+  - new Ghost Girl sounds
   - Value Counter sounds
-  
+  - new quota reached sounds
+
+- probably fixed broken ghost girl sounds
+
 # v1.4.0
 - 8 new sounds in 1.4.0:
   - Furniture Moving sounds

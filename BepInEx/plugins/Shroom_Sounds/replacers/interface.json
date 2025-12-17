@@ -28,6 +28,12 @@
                 }, {
                     "sound": "interface/quota_reached/ReachedQuotaSFX-themonsterswithout-l4d1.ogg",
                     "weight": 1
+                }, {
+                    "sound": "interface/quota_reached/ReachedQuotaSFX-JSR.ogg",
+                    "weight": 1
+                }, {
+                    "sound": "interface/quota_reached/ReachedQuotaSFX-JSRF.ogg",
+                    "weight": 1
                 }
             ]
         }, {
@@ -163,7 +169,13 @@
 				"config": "Interface:ValueCounter"
 			},
             "sounds": [{
-                    "sound": "interface/counter/counter_finish.ogg",
+                    "sound": "interface/counter/counter_finish_1.ogg",
+                    "weight": 10
+                },{
+                    "sound": "interface/counter/counter_finish_2.ogg",
+                    "weight": 1
+                },{
+                    "sound": "interface/counter/counter_finish_3.ogg",
                     "weight": 1
                 }
             ]

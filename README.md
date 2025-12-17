@@ -147,6 +147,8 @@ The following below are round starts and game starts. (borrowed from [CookiesSou
 - Plants vs. Zombies Victory tune (borrowed from [CookiesSounds](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesSounds/))
 - The Monsters Without from Left 4 Dead (borrowed from [CookiesSounds](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesSounds/))
 - The Monsters Without from Left 4 Dead 2 (borrowed from [CookiesSounds](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesSounds/))
+- Jet Set Groove #1 from Jet Set Radio
+- Jet Set Groove #3 from Jet Set Radio Future 
 
 ### 💰 Reward sounds
 (the sounds that play when the list of items sold to the company appears on screen)
@@ -162,6 +164,7 @@ The following below are round starts and game starts. (borrowed from [CookiesSou
 ### 💲 Value Counter
 (the sounds that play when you scan scrap worth money)
 - Sounds from Luigi's Mansion Arcade
+- Rarely plays graffiti sounds from Jet Set Radio
 
 ### ☠️ All Players Dead Music
 (the stinger that plays when every player dies and the ship leaves)
