@@ -33,6 +33,7 @@ Configs have been added as of version 1.4.0!
   - Landmine
   - Turret
 - Entity Sounds
+  - Baboon Hawk
   - Bracken
   - Circuit Bees
   - Coilhead
@@ -51,6 +52,8 @@ Configs have been added as of version 1.4.0!
   - Comedy / Tragedy Masks
 - Terminal Sounds
   - Change Suit
+- Modded Sounds
+  - Loadstone Loading Music
 
 # Specific changes / sources
 All sounds that I graciously "borrowed" from other soundpacks will be credited.
@@ -175,6 +178,9 @@ The following below are round starts and game starts. (borrowed from [CookiesSou
 
 ## 😈 Enemy Sounds 😈
 
+### 🦅 Baboon Hawk
+- All sounds are replaced with sounds made from the Censor enemy in Psychonauts
+
 ### 🌺 Bracken
 - Rarely plays Hunter Bacteria from Left 4 Dead when player spots it (borrowed from [CookiesSounds](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesSounds/))
 
@@ -249,3 +255,15 @@ Tragedy Mask Cry:
 ### 👔 Change Suits
 (it's in the terminal section of the config because I exclusively use the suits terminal mod and forgot the rack was a thing)
 - Clothes change sound from Animal Crossing: New Horizons
+
+## 🛠 Modded 🛠
+
+### Loadstone
+Loading Music replaced with the following:
+- Online Lobby music from Castle Crashers
+- Costington's Mansion from Scooby-Doo and the Spooky Swamp
+- Miiverse Loading theme
+- Lobby music from Splatoon
+- Memory of Forgathering Dream from Touhou 12.3: Unthinkable Natural Law
+- Wifi Connection theme from Mario Kart Wii
+- Wifi Waiting Room theme from Mario Kart Wii

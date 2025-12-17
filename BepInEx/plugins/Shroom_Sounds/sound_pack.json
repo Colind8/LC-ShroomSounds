@@ -1,6 +1,6 @@
 {
     "name": "Shroom_Sounds",
-	"version": "1.4.0",
+	"version": "1.5.0",
 	"config": {
 		"_Main:DMCA": {
 			"description": "Set to false to DISABLE all potentially copyrighted sounds.",
@@ -8,6 +8,10 @@
 		},
 		"_Main:FamilyFriendly": {
 			"description": "Set to false to DISABLE all non-family friendly sounds.",
+			"default": true
+		},
+		"_Main:Modded": {
+			"description": "Set to false to DISABLE all mod sound changes.",
 			"default": true
 		},
 		"_Main:Music": {
@@ -176,6 +180,10 @@
 		},
 		"Terminal:ChangeSuit": {
 			"description": "Toggle suit change sound change",
+			"default": true
+		},
+		"Modded:LoadstoneLoadingMusic": {
+			"description": "Toggle Loadstone's loading music sound change",
 			"default": true
 		}
 	}

@@ -1,3 +1,8 @@
+# v1.5.0
+- new sounds in 1.5.0:
+  - Baboon Hawk sounds
+  - Loadstone Loading Music
+
 # v1.4.0
 - 8 new sounds in 1.4.0:
   - Furniture Moving sounds

@@ -1,0 +1,47 @@
+{
+    "randomness": {
+        "type": "determinstic"
+    },
+    "condition": {
+        "type": "config",
+        "config": "_Main:Modded"
+    },
+    "replacements": [{
+            "matches": "SpeakerAudio:LoadstoneLoading:LoadstoneLoading",
+            "condition": {
+                "type": "config",
+				"config": "Modded:LoadstoneLoadingMusic"
+            },
+            "sounds": [
+				{
+                    "sound": "modded/loading/costington.ogg",
+                    "weight": 1
+                },
+				{
+                    "sound": "modded/loading/cc_online.ogg",
+                    "weight": 1
+                },
+				{
+                    "sound": "modded/loading/miiverse.ogg",
+                    "weight": 1
+                },
+				{
+                    "sound": "modded/loading/splatoon.ogg",
+                    "weight": 1
+                },
+				{
+                    "sound": "modded/loading/touhou.ogg",
+                    "weight": 1
+                },
+				{
+                    "sound": "modded/loading/wfcmkw.ogg",
+                    "weight": 1
+                },
+				{
+                    "sound": "modded/loading/wfwrmkw.ogg",
+                    "weight": 1
+                }
+            ]
+        }
+    ]
+}
