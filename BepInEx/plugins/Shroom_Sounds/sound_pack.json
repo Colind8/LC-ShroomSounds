@@ -154,6 +154,10 @@
 			"description": "Toggle the furniture moving sound changes",
 			"default": true
 		},
+		"Interface:ValueCounter": {
+			"description": "Toggle the scanner's value counter sound changes",
+			"default": true
+		},
 		"Environment:Venting": {
 			"description": "Toggle the vent crawling sound changes",
 			"default": true

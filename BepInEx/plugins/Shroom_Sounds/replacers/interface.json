@@ -145,6 +145,28 @@
                     "weight": 1
                 }
             ]
+        }, {
+            "matches": "Audios:UIAudio:CounterAdd",
+			"condition": {
+				"type": "config",
+				"config": "Interface:ValueCounter"
+			},
+            "sounds": [{
+                    "sound": "interface/counter/counter_tick.ogg",
+                    "weight": 1
+                }
+            ]
+        }, {
+            "matches": "Audios:UIAudio:CounterAddFinish",
+			"condition": {
+				"type": "config",
+				"config": "Interface:ValueCounter"
+			},
+            "sounds": [{
+                    "sound": "interface/counter/counter_finish.ogg",
+                    "weight": 1
+                }
+            ]
         }
     ]
 }

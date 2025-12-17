@@ -3,7 +3,8 @@
   - Baboon Hawk sounds
   - Loadstone Loading Music
   - Ghost Girl sounds
-
+  - Value Counter sounds
+  
 # v1.4.0
 - 8 new sounds in 1.4.0:
   - Furniture Moving sounds

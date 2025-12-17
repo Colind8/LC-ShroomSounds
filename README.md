@@ -29,6 +29,7 @@ Configs have been added as of version 1.4.0!
   - Reward sounds
   - Collect sound
   - Moving Furniture sounds
+  - Value Counter
 - Trap sounds
   - Landmine
   - Turret
@@ -157,6 +158,10 @@ The following below are round starts and game starts. (borrowed from [CookiesSou
 
 ### 🪑 Moving Furniture
 - Furniture moving sounds from Animal Crossing: City Folk
+
+### 💲 Value Counter
+(the sounds that play when you scan scrap worth money)
+- Sounds from Luigi's Mansion Arcade
 
 ### ☠️ All Players Dead Music
 (the stinger that plays when every player dies and the ship leaves)
