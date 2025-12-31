@@ -2,7 +2,7 @@
 - new sounds in 1.6.0:
   - New Notification sounds
   
-
+- Trimmed some empty space at the beginning of some of the Loadstone Loading music
 
 # v1.5.0
 - new sounds in 1.5.0:
