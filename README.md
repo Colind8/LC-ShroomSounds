@@ -24,7 +24,7 @@ Configs have been added as of version 1.4.0!
   - Menu music
   - Record Player music
 - Interface sounds
-  - Notification sound
+  - Notification sounds
   - Quota Reached
   - Reward sounds
   - Collect sound
@@ -141,6 +141,9 @@ The following below are round starts and game starts. (borrowed from [CookiesSou
 (the sound that plays when scanning a new creature)
 - the unchanged notification sound can play
 - Deep Rock Galactic voice lines (rarer)
+
+(generic / warning notifications, new profit quota, days left alert, final day alert)
+- various sound effects from Go Vacation
 
 ### ✅ Quota Reached
 - the unchanged Quota Reached sound can play

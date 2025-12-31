@@ -179,6 +179,76 @@
                     "weight": 1
                 }
             ]
+        }, {
+            "matches": "Audios:UIAudio:NewProfitQuota",
+			"condition": {
+				"type": "config",
+				"config": "Interface:NotificationAlerts"
+			},
+            "sounds": [{
+                    "sound": "interface/notification/gv_neat.ogg",
+                    "weight": 1
+                }
+            ]
+        }, {
+            "matches": [
+				"Audios:UIAudio:TipsHUD",
+				"Audios:UIAudio:TipsHUD2"
+			],
+			"condition": {
+				"type": "config",
+				"config": "Interface:NotificationAlerts"
+			},
+            "sounds": [{
+                    "sound": "interface/notification/gv_coocoo.ogg",
+                    "weight": 1
+                },
+				{
+                    "sound": "interface/notification/gv_dingdong_subtle.ogg",
+                    "weight": 1
+                }
+            ]
+        }, {
+            "matches": [
+				"Audios:UIAudio:WarningHUD",
+				"Audios:UIAudio:WarningHUD2",
+				"Audios:UIAudio:WarningHUD3"
+			],
+			"condition": {
+				"type": "config",
+				"config": "Interface:NotificationAlerts"
+			},
+            "sounds": [{
+                    "sound": "interface/notification/gv_dingdong.ogg",
+                    "weight": 1
+                },
+				{
+                    "sound": "interface/notification/gv_dingdong_retro.ogg",
+                    "weight": 1
+                }
+            ]
+        }, {
+            "matches": "Audios:UIAudio:DaysLeftSFX",
+			"condition": {
+				"type": "config",
+				"config": "Interface:NotificationAlerts"
+			},
+            "sounds": [{
+                    "sound": "interface/notification/gv_accept.ogg",
+                    "weight": 1
+                }
+            ]
+        }, {
+            "matches": "Audios:UIAudio:FinalDayBeforeDeadline",
+			"condition": {
+				"type": "config",
+				"config": "Interface:NotificationAlerts"
+			},
+            "sounds": [{
+                    "sound": "interface/notification/gv_big.ogg",
+                    "weight": 1
+                }
+            ]
         }
     ]
 }

@@ -1,3 +1,9 @@
+# v1.6.0
+- new sounds in 1.6.0:
+  - New Notification sounds
+  
+
+
 # v1.5.0
 - new sounds in 1.5.0:
   - Baboon Hawk sounds
