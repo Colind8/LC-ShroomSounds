@@ -81,6 +81,8 @@ All sounds that I graciously "borrowed" from other soundpacks will be credited.
 - Lower Brinstar from Metroid Dread
 - Sanctuary from the Terraria Calamity mod
 
+- Eclipse Ambience is the Ice Caves from Scooby-Doo and the Spooky Swamp
+
 ### 🎧 Boombox Music
 All songs have been compressed heavily for the funny
 - Get it Together by The Go! Team (from Little Big Planet)

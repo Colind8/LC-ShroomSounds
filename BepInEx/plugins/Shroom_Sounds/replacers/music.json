@@ -475,6 +475,17 @@
                     "weight": 1
                 }
             ]
+        }, {
+            "matches": "EclipseMusic:EclipseAmbience",
+			"condition": {
+				"type": "config",
+				"config": "Music:Eclipse"
+			},
+            "sounds": [{
+                    "sound": "music/ambient/eclipse.ogg",
+                    "weight": 1
+                }
+            ]
         }
 
     ]

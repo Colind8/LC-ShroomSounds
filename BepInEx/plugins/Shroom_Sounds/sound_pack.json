@@ -86,6 +86,10 @@
 			"description": "Toggle the record player sound changes",
 			"default": true
 		},
+		"Music:Eclipse": {
+			"description": "Toggle the eclipse ambience sound change",
+			"default": true
+		},
 		"IndoorEntities:SoundCues": {
 			"description": "Toggle whether monsters can play sound cues",
 			"default": true
@@ -156,6 +160,10 @@
 		},
 		"Interface:ValueCounter": {
 			"description": "Toggle the scanner's value counter sound changes",
+			"default": true
+		},
+		"Interface:NotificationAlerts": {
+			"description": "Toggle the notification alert sound changes",
 			"default": true
 		},
 		"Environment:Venting": {
