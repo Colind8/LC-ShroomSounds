@@ -187,6 +187,7 @@ The following below are round starts and game starts. (borrowed from [CookiesSou
 
 ### 💥 Landmine sounds
 - Mine Turtle from asdfmovie on YouTube (borrowed from [MemetasticAudio](https://thunderstore.io/c/lethal-company/p/JacuJ/MemetasticAudio/))
+- Daffy Duck saying "mother" from Looney Tunes
 
 ### 🔭 Turret sounds
 - Portal turret (borrowed from [Rimurus Soundpack](https://thunderstore.io/c/lethal-company/p/Rimuru/Rimurus_Soundpack/))

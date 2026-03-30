@@ -4,10 +4,12 @@
   - Eclipse Ambience
   - Teleporter and Inverse Teleporter sounds
   - Replaced Value Counter sounds with softer sounds.
+  - New Landmine Trigger sound
   
 - Trimmed some empty space at the beginning of some of the Loadstone Loading music
 - Reduced the volume of the Spooky Swamp loading music
 - Altered the replacers for ambient music
+Note: this update made for V73
 
 # v1.5.0
 - new sounds in 1.5.0:
