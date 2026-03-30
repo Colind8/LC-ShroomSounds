@@ -1,32 +1,32 @@
 {
-    "randomness": {
-        "type": "determinstic"
-    },
+	"randomness": {
+		"type": "determinstic"
+	},
 	"condition": {
 		"type": "config",
 		"config": "_Main:Items"
 	},
-    "replacements": [
+	"replacements": [
 		{
-            "matches": "RadarBoosterDevice:BoosterPingAudio:GhostDevicePing",
+			"matches": "RadarBoosterDevice:BoosterPingAudio:GhostDevicePing",
 			"condition": {
 				"type": "config",
 				"config": "Items:RadarBooster"
 			},
-            "sounds": [{
-                    "sound": "store_items/radar_booster/dave1.ogg",
-                    "weight": 1
-                },{
-                    "sound": "store_items/radar_booster/dave2.ogg",
-                    "weight": 1
-                },{
-                    "sound": "store_items/radar_booster/dave3.ogg",
-                    "weight": 1
-                }
-            ]
-        },
+			"sounds": [{
+					"sound": "store_items/radar_booster/dave1.ogg",
+					"weight": 1
+				},{
+					"sound": "store_items/radar_booster/dave2.ogg",
+					"weight": 1
+				},{
+					"sound": "store_items/radar_booster/dave3.ogg",
+					"weight": 1
+				}
+			]
+		},
 		{
-            "matches": "TZPChemical:LocalHelmetSFX:ReleaseHelmetGas",
+			"matches": "TZPChemical:LocalHelmetSFX:ReleaseHelmetGas",
 			"condition": {
 				"type": "and",
 				"conditions": [
@@ -40,14 +40,14 @@
 					}
 				]
 			},
-            "sounds": [{
-                    "sound": "store_items/tzp_inhalent/ReleaseHelmetGas.ogg",
-                    "weight": 1
-                }
-            ]
-        },
+			"sounds": [{
+					"sound": "store_items/tzp_inhalent/ReleaseHelmetGas.ogg",
+					"weight": 1
+				}
+			]
+		},
 		{
-            "matches": "TZPChemical:LocalHelmetSFX:ReleaseHelmetGas2",
+			"matches": "TZPChemical:LocalHelmetSFX:ReleaseHelmetGas2",
 			"condition": {
 				"type": "and",
 				"conditions": [
@@ -61,11 +61,35 @@
 					}
 				]
 			},
-            "sounds": [{
-                    "sound": "store_items/tzp_inhalent/ReleaseHelmetGas2.ogg",
-                    "weight": 1
-                }
-            ]
-        }
-    ]
+			"sounds": [{
+					"sound": "store_items/tzp_inhalent/ReleaseHelmetGas2.ogg",
+					"weight": 1
+				}
+			]
+		},
+		{
+			"matches": "AnimContainer:TeleportAudio:ShipTeleporterSpin",
+			"condition": {
+				"type": "config",
+				"config": "Items:Teleporter"
+			},
+			"sounds": [{
+					"sound": "store_items/teleporter/pixelator_in.ogg",
+					"weight": 1
+				}
+			]
+		},
+		{
+			"matches": "AnimContainer:TeleportAudio:ShipTeleporterSpinInverse",
+			"condition": {
+				"type": "config",
+				"config": "Items:Teleporter"
+			},
+			"sounds": [{
+					"sound": "store_items/teleporter/pixelator_out.ogg",
+					"weight": 1
+				}
+			]
+		}
+	]
 }

@@ -158,7 +158,19 @@
 				"config": "Interface:ValueCounter"
 			},
             "sounds": [{
-                    "sound": "interface/counter/counter_tick.ogg",
+                    "sound": "interface/counter/counter_tick_1.ogg",
+                    "weight": 1
+                },{
+                    "sound": "interface/counter/counter_tick_2.ogg",
+                    "weight": 1
+                },{
+                    "sound": "interface/counter/counter_tick_3.ogg",
+                    "weight": 1
+                },{
+                    "sound": "interface/counter/counter_tick_4.ogg",
+                    "weight": 1
+                },{
+                    "sound": "interface/counter/counter_tick_5.ogg",
                     "weight": 1
                 }
             ]
@@ -169,7 +181,7 @@
 				"config": "Interface:ValueCounter"
 			},
             "sounds": [{
-                    "sound": "interface/counter/counter_finish_1.ogg",
+                    "sound": "interface/counter/counter_finish_4.ogg",
                     "weight": 10
                 },{
                     "sound": "interface/counter/counter_finish_2.ogg",

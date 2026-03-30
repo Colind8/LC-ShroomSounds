@@ -51,6 +51,7 @@ Configs have been added as of version 1.4.0!
   - Ship Clipboard
   - TZP-Inhalant
   - Comedy / Tragedy Masks
+  - Teleporter
 - Terminal Sounds
   - Change Suit
 - Modded Sounds
@@ -82,6 +83,7 @@ All sounds that I graciously "borrowed" from other soundpacks will be credited.
 - Sanctuary from the Terraria Calamity mod
 
 - Eclipse Ambience is the Ice Caves from Scooby-Doo and the Spooky Swamp
+- Eclipse Ambience also is Final Hours music from The Legend of Zelda: Majora's Mask
 
 ### 🎧 Boombox Music
 All songs have been compressed heavily for the funny
@@ -263,6 +265,9 @@ Comedy Mask Laugh:
 
 Tragedy Mask Cry:
 - Freddy's laugh from Five Night's at Freddy's
+
+### ☄ Teleporter / Inverse Teleporter
+- Pixelator sounds from Luigi's Mansion: Dark Moon
 
 ## 🖥️ Terminal 🖥️
 

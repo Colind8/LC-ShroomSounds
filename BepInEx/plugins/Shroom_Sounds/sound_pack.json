@@ -182,6 +182,10 @@
 			"description": "Toggle TZP Inhalent sound changes",
 			"default": true
 		},
+		"Items:Teleporter": {
+			"description": "Toggle teleporter sound changes",
+			"default": true
+		},
 		"Items:Clipboard": {
 			"description": "Toggle clipboard sound changes",
 			"default": true
