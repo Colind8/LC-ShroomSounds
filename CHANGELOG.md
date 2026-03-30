@@ -1,4 +1,5 @@
 # v1.6.0
+Note: this update made for V73
 - new sounds in 1.6.0:
   - New Notification sounds
   - Eclipse Ambience
@@ -9,7 +10,7 @@
 - Trimmed some empty space at the beginning of some of the Loadstone Loading music
 - Reduced the volume of the Spooky Swamp loading music
 - Altered the replacers for ambient music
-Note: this update made for V73
+
 
 # v1.5.0
 - new sounds in 1.5.0:
