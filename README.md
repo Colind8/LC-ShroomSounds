@@ -279,7 +279,6 @@ Tragedy Mask Cry:
 ## 🚀 Ship 🚀
 
 ### 👔 Change Suits
-(it's in the terminal section of the config because I exclusively use the suits terminal mod and forgot the rack was a thing)
 - Clothes change sound from Animal Crossing: New Horizons
 
 ### ☄ Teleporter / Inverse Teleporter
