@@ -25,6 +25,19 @@
 			]
 		},
 		{
+			"matches": "AnimContainer:NeckCrackAudio:CrackNeck",
+			"condition": {
+				"type": "config",
+				"config": "IndoorEntities:Bracken"
+			},
+			"sounds": [
+				{
+					"sound": "entities/bracken/crack.ogg",
+					"weight": 1
+				}
+			]
+		},
+		{
 			"matches": "Crawler:Stomp1",
 			"condition": {
 				"type": "config",
@@ -188,7 +201,7 @@
 			    "DressGirl:Laugh1",
 			    "DressGirl:Laugh2",
 			    "DressGirlModel:VoiceSFX:Laugh1",
-			    "DressGirlModel:VoiceSFX:Laugh2",
+			    "DressGirlModel:VoiceSFX:Laugh2"
 			],
 			"condition": {
 				"type": "config",
@@ -224,7 +237,7 @@
         {
             "matches": [
 			    "DressGirl:Wheeze",
-			    "DressGirlModel:VoiceSFX:Wheeze",
+			    "DressGirlModel:VoiceSFX:Wheeze"
 			],
 			"condition": {
 				"type": "config",
