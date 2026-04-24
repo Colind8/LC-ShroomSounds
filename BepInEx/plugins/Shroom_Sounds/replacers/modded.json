@@ -7,10 +7,10 @@
         "config": "_Main:Modded"
     },
     "replacements": [{
-            "matches": "SpeakerAudio:LoadstoneLoading:LoadstoneLoading",
+            "matches": "SpeakerAudio:LoadingMusic:LoadingMusic",
             "condition": {
                 "type": "config",
-				"config": "Modded:LoadstoneLoadingMusic"
+				"config": "Modded:LoadingMusic"
             },
             "sounds": [
 				{
