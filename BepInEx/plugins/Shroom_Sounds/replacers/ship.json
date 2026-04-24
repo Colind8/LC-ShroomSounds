@@ -52,7 +52,7 @@
 				"config": "Ship:Teleporter"
 			},
 			"sounds": [{
-					"sound": "store_items/teleporter/pixelator_in.ogg",
+					"sound": "ship/teleporter/pixelator_in.ogg",
 					"weight": 1
 				}
 			]
@@ -64,7 +64,7 @@
 				"config": "Ship:Teleporter"
 			},
 			"sounds": [{
-					"sound": "store_items/teleporter/pixelator_out.ogg",
+					"sound": "ship/teleporter/pixelator_out.ogg",
 					"weight": 1
 				}
 			]
