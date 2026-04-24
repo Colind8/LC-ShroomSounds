@@ -90,6 +90,10 @@
 			"description": "Toggle the eclipse ambience sound change",
 			"default": true
 		},
+		"Music:Cruiser": {
+			"description": "Toggle the cruiser radio sound changes",
+			"default": true
+		},
 		"IndoorEntities:SoundCues": {
 			"description": "Toggle whether monsters can play sound cues",
 			"default": true

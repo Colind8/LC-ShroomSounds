@@ -1,7 +1,7 @@
 # 🍄 Shroom Sounds 🍄
 This soundpack is heavily inspired by [CookiesSounds](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesSounds/). Think of this soundpack as a slightly updated version.
 
-Currently at 297 sounds. More sound changes will come soon!
+Currently at 301 sounds. More sound changes will come soon!
 
 # Configs
 Configs have been added as of version 1.4.0!
@@ -23,6 +23,7 @@ Configs have been added as of version 1.4.0!
   - Landing music
   - Menu music
   - Record Player music
+  - Cruiser Radio music
 - Interface sounds
   - Notification sounds
   - Quota Reached
@@ -139,6 +140,12 @@ The following below are round starts and game starts. (borrowed from [CookiesSou
 
 ### 📻 Record player
 - Repaces the song with an extremely low-quality version of The Palace That Was Found from Sonic and the Secret Rings
+
+### 🚚 Cruiser Radio
+- Que Chevere by 45 aka Swing-O (from Jazztronauts)
+- Popcorn by M & H Band
+- Can You Feel [spc700] by Torchkas
+- Mind Control Corral by Pilotredsun
 
 ## 🖱️ Interface Sounds 🖱️
 

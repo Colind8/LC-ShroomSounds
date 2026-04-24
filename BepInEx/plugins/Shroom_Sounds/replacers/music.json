@@ -569,6 +569,58 @@
 					"weight": 1
 				}
 			]
+		},
+		{
+			"matches": "Meshes:RadioAudio:Radio_ParadeOfTheWoodenSoldiers",
+			"condition": {
+				"type": "config",
+				"config": "Music:Cruiser"
+			},
+			"sounds": [
+				{
+					"sound": "music/cruiser/cruiser_can_you_feel.ogg",
+					"weight": 1
+				}
+			]
+		},
+		{
+			"matches": "Meshes:RadioAudio:Radio_Bananas",
+			"condition": {
+				"type": "config",
+				"config": "Music:Cruiser"
+			},
+			"sounds": [
+				{
+					"sound": "music/cruiser/cruiser_mind_control_corral.ogg",
+					"weight": 1
+				}
+			]
+		},
+		{
+			"matches": "Meshes:RadioAudio:Radio_SomeSunnyDay",
+			"condition": {
+				"type": "config",
+				"config": "Music:Cruiser"
+			},
+			"sounds": [
+				{
+					"sound": "music/cruiser/cruiser_popcorn.ogg",
+					"weight": 1
+				}
+			]
+		},
+		{
+			"matches": "Meshes:RadioAudio:Radio_WestIndiesBlues",
+			"condition": {
+				"type": "config",
+				"config": "Music:Cruiser"
+			},
+			"sounds": [
+				{
+					"sound": "music/cruiser/cruiser_que_chevere.ogg",
+					"weight": 1
+				}
+			]
 		}
 	]
 }

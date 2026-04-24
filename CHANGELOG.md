@@ -3,6 +3,7 @@ Note: this update made for V81
 - new sounds in 1.6.1
   - Bracken Whipcrack Kill Sound
   - Charging Station sounds
+  - Cruiser Radio sounds
 
 - Replaced Loadstone loading music for Loading Music mod
 - Updated loaforcsSoundAPI version to latest 2.0.10
