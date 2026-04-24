@@ -49,7 +49,7 @@
 			"matches": "AnimContainer:TeleportAudio:ShipTeleporterSpin",
 			"condition": {
 				"type": "config",
-				"config": "Items:Teleporter"
+				"config": "Ship:Teleporter"
 			},
 			"sounds": [{
 					"sound": "store_items/teleporter/pixelator_in.ogg",
@@ -61,7 +61,7 @@
 			"matches": "AnimContainer:TeleportAudio:ShipTeleporterSpinInverse",
 			"condition": {
 				"type": "config",
-				"config": "Items:Teleporter"
+				"config": "Ship:Teleporter"
 			},
 			"sounds": [{
 					"sound": "store_items/teleporter/pixelator_out.ogg",
