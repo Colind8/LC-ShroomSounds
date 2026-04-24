@@ -1,3 +1,18 @@
+# v1.7.0
+Note: this update made for V81
+- new sounds in 1.6.1
+  - Bracken Whipcrack Kill Sound
+  - Charging Station sounds
+
+- Replaced Loadstone loading music for Loading Music mod
+- Updated loaforcsSoundAPI version to latest 2.0.10
+- Lowered the volume of the value counter sounds
+- Updated sound count in readme
+- Removed some unused sounds
+- Removed terminal section config
+- Created ship section config
+- Moved change suit sound and teleporter sound configs to ship section
+
 # v1.6.0
 Note: this update made for V73
 - new sounds in 1.6.0:

@@ -34,16 +34,16 @@
 			"description": "Toggle all sound changes for the interface",
 			"default": true
 		},
-		"_Main:Terminal": {
-			"description": "Toggle all sound changes for the terminal",
-			"default": true
-		},
 		"_Main:Environment": {
 			"description": "Toggle all sound changes for the environment",
 			"default": true
 		},
 		"_Main:Items": {
 			"description": "Toggle all sound changes for items",
+			"default": true
+		},
+		"_Main:Ship": {
+			"description": "Toggle all sound changes for the ship and its upgrades",
 			"default": true
 		},
 		"Music:VanillaSounds": {
@@ -108,6 +108,10 @@
 		},
 		"IndoorEntities:GhostGirl": {
 			"description": "Toggle the ghost girl sound changes.",
+			"default": true
+		},
+		"IndoorEntities:Bracken": {
+			"description": "Toggle the bracken neck snap sound change.",
 			"default": true
 		},
 		"OutdoorEntities:SoundCues": {
@@ -182,10 +186,6 @@
 			"description": "Toggle TZP Inhalent sound changes",
 			"default": true
 		},
-		"Items:Teleporter": {
-			"description": "Toggle teleporter sound changes",
-			"default": true
-		},
 		"Items:Clipboard": {
 			"description": "Toggle clipboard sound changes",
 			"default": true
@@ -198,12 +198,20 @@
 			"description": "Toggle tragedy mask sound changes",
 			"default": true
 		},
-		"Terminal:ChangeSuit": {
+		"Ship:ChangeSuit": {
 			"description": "Toggle suit change sound change",
 			"default": true
 		},
-		"Modded:LoadstoneLoadingMusic": {
-			"description": "Toggle Loadstone's loading music sound change",
+		"Ship:Teleporter": {
+			"description": "Toggle teleporter sound changes",
+			"default": true
+		},
+		"Ship:ChargeStation": {
+			"description": "Toggle charge station sound changes",
+			"default": true
+		},
+		"Modded:LoadingMusic": {
+			"description": "Toggle Loading Music sound change",
 			"default": true
 		}
 	}

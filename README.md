@@ -1,7 +1,7 @@
 # 🍄 Shroom Sounds 🍄
 This soundpack is heavily inspired by [CookiesSounds](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesSounds/). Think of this soundpack as a slightly updated version.
 
-Currently at 216 sounds. More sound changes will come soon!
+Currently at 297 sounds. More sound changes will come soon!
 
 # Configs
 Configs have been added as of version 1.4.0!
@@ -12,7 +12,7 @@ Configs have been added as of version 1.4.0!
 - You can find the DMCA config in the "_Main" category of the config.
 - You can disable the chance for vanilla sounds to play in the "Music" and "Interface" categories
 
-## Changes:
+## Changes (at a glance):
 - Music
   - Intro Speech
   - All Players Dead music
@@ -51,11 +51,12 @@ Configs have been added as of version 1.4.0!
   - Ship Clipboard
   - TZP-Inhalant
   - Comedy / Tragedy Masks
-  - Teleporter
-- Terminal Sounds
+- Ship Sounds
   - Change Suit
+  - Teleporter
+  - Charge Station
 - Modded Sounds
-  - Loadstone Loading Music
+  - [Loading Music](https://thunderstore.io/c/lethal-company/p/ZetaArcade/LoadingMusic/)
 
 # Specific changes / sources
 All sounds that I graciously "borrowed" from other soundpacks will be credited.
@@ -199,6 +200,7 @@ The following below are round starts and game starts. (borrowed from [CookiesSou
 
 ### 🌺 Bracken
 - Rarely plays Hunter Bacteria from Left 4 Dead when player spots it (borrowed from [CookiesSounds](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesSounds/))
+- Neck Crack sound is whip crack SFX from Johnny Test
 
 ### 🐝 Circuit Bees
 - Bee Movie sounds from Bee Movie (borrowed from [MemetasticAudio](https://thunderstore.io/c/lethal-company/p/JacuJ/MemetasticAudio/))
@@ -267,18 +269,24 @@ Comedy Mask Laugh:
 Tragedy Mask Cry:
 - Freddy's laugh from Five Night's at Freddy's
 
-### ☄ Teleporter / Inverse Teleporter
-- Pixelator sounds from Luigi's Mansion: Dark Moon
-
-## 🖥️ Terminal 🖥️
+## 🚀 Ship 🚀
 
 ### 👔 Change Suits
 (it's in the terminal section of the config because I exclusively use the suits terminal mod and forgot the rack was a thing)
 - Clothes change sound from Animal Crossing: New Horizons
 
+### ☄ Teleporter / Inverse Teleporter
+- Pixelator sounds from Luigi's Mansion: Dark Moon
+
+### ⚡ Charging Station
+- the regular sound can play
+- Hologram sounds from Team Fortress 2 (borrowed from [CookiesSounds](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesSounds/))
+- Printer sounds from Risk of Rain 2 (borrowed from [CookiesSounds](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesSounds/))
+- Suit Charging sound from Half-Life (borrowed from [CookiesSounds](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesSounds/))
+
 ## 🛠 Modded 🛠
 
-### Loadstone
+### [Loading Music](https://thunderstore.io/c/lethal-company/p/ZetaArcade/LoadingMusic/)
 Loading Music replaced with the following:
 - Online Lobby music from Castle Crashers
 - Costington's Mansion from Scooby-Doo and the Spooky Swamp (inspired by [TeaisntsSillySounds](https://thunderstore.io/c/lethal-company/p/Teaisnt/TeaisntsSillySounds/))
