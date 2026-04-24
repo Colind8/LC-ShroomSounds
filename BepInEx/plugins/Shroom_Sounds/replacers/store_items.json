@@ -66,30 +66,6 @@
 					"weight": 1
 				}
 			]
-		},
-		{
-			"matches": "AnimContainer:TeleportAudio:ShipTeleporterSpin",
-			"condition": {
-				"type": "config",
-				"config": "Items:Teleporter"
-			},
-			"sounds": [{
-					"sound": "store_items/teleporter/pixelator_in.ogg",
-					"weight": 1
-				}
-			]
-		},
-		{
-			"matches": "AnimContainer:TeleportAudio:ShipTeleporterSpinInverse",
-			"condition": {
-				"type": "config",
-				"config": "Items:Teleporter"
-			},
-			"sounds": [{
-					"sound": "store_items/teleporter/pixelator_out.ogg",
-					"weight": 1
-				}
-			]
 		}
 	]
 }

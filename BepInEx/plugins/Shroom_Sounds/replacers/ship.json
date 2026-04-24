@@ -1,0 +1,73 @@
+{
+	"randomness": {
+		"type": "determinstic"
+	},
+	"condition": {
+		"type": "config",
+		"config": "_Main:Ship"
+	},
+	"replacements": [
+		{
+			"matches": "Audios:MovementAudio:ChangeSuit",
+			"condition": {
+				"type": "config",
+				"config": "Ship:ChangeSuit"
+			},
+			"sounds": [
+				{
+					"sound": "ship/change_suit.ogg",
+					"weight": 1
+				}
+			]
+		},
+		{
+			"matches": "ChargeStationTrigger:Trigger:ChargeItem",
+			"condition": {
+				"type": "config",
+				"config": "Ship:ChargeStation"
+			},
+			"sounds": [
+				{
+					"sound": "ship/charge_station/charge_default.ogg",
+					"weight": 4
+				},
+				{
+					"sound": "ship/charge_station/charge_hologram.ogg",
+					"weight": 1
+				},
+				{
+					"sound": "ship/charge_station/charge_printer.ogg",
+					"weight": 1
+				},
+				{
+					"sound": "ship/charge_station/charge_suit.ogg",
+					"weight": 1
+				}
+			]
+		},
+		{
+			"matches": "AnimContainer:TeleportAudio:ShipTeleporterSpin",
+			"condition": {
+				"type": "config",
+				"config": "Items:Teleporter"
+			},
+			"sounds": [{
+					"sound": "store_items/teleporter/pixelator_in.ogg",
+					"weight": 1
+				}
+			]
+		},
+		{
+			"matches": "AnimContainer:TeleportAudio:ShipTeleporterSpinInverse",
+			"condition": {
+				"type": "config",
+				"config": "Items:Teleporter"
+			},
+			"sounds": [{
+					"sound": "store_items/teleporter/pixelator_out.ogg",
+					"weight": 1
+				}
+			]
+		}
+	]
+}
