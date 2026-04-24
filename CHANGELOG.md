@@ -1,3 +1,7 @@
+# v1.7.1
+- Fixed changelog
+- Fixed teleporter sounds
+
 # v1.7.0
 Note: this update made for V81
 - new sounds in 1.7.0
