@@ -573,8 +573,17 @@
 		{
 			"matches": "Meshes:RadioAudio:Radio_ParadeOfTheWoodenSoldiers",
 			"condition": {
-				"type": "config",
-				"config": "Music:Cruiser"
+				"type": "and",
+				"conditions": [
+					{
+						"type": "config",
+						"config": "_Main:DMCA"
+					},
+					{
+						"type": "config",
+						"config": "Music:Cruiser"
+					}
+				]
 			},
 			"sounds": [
 				{
@@ -586,8 +595,17 @@
 		{
 			"matches": "Meshes:RadioAudio:Radio_Bananas",
 			"condition": {
-				"type": "config",
-				"config": "Music:Cruiser"
+				"type": "and",
+				"conditions": [
+					{
+						"type": "config",
+						"config": "_Main:DMCA"
+					},
+					{
+						"type": "config",
+						"config": "Music:Cruiser"
+					}
+				]
 			},
 			"sounds": [
 				{
@@ -599,8 +617,17 @@
 		{
 			"matches": "Meshes:RadioAudio:Radio_SomeSunnyDay",
 			"condition": {
-				"type": "config",
-				"config": "Music:Cruiser"
+				"type": "and",
+				"conditions": [
+					{
+						"type": "config",
+						"config": "_Main:DMCA"
+					},
+					{
+						"type": "config",
+						"config": "Music:Cruiser"
+					}
+				]
 			},
 			"sounds": [
 				{
@@ -612,13 +639,23 @@
 		{
 			"matches": "Meshes:RadioAudio:Radio_WestIndiesBlues",
 			"condition": {
-				"type": "config",
-				"config": "Music:Cruiser"
+				"type": "and",
+				"conditions": [
+					{
+						"type": "config",
+						"config": "_Main:DMCA"
+					},
+					{
+						"type": "config",
+						"config": "Music:Cruiser"
+					}
+				]
 			},
 			"sounds": [
 				{
 					"sound": "music/cruiser/cruiser_que_chevere.ogg",
 					"weight": 1
+					
 				}
 			]
 		}
