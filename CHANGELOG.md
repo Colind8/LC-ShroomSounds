@@ -5,6 +5,8 @@
   - hoarding bug and baboon hawk death sounds if using EnemySoundFixes
   - Jester Music
 
+- DMCA filter added to cruiser
+
 # v1.7.1
 - Fixed changelog
 - Fixed teleporter sounds
