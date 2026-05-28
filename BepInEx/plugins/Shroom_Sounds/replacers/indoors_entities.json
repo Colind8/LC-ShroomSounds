@@ -264,6 +264,48 @@
 					"weight": 1
                 }
             ]
+        },
+        {
+            "matches": [
+			    "JesterEnemy:FarAudio:JackInTheBoxTheme"
+			],
+			"condition": {
+				"type": "and",
+				"conditions": [
+					{
+						"type": "config",
+						"config": "_Main:DMCA"
+					},
+					{
+						"type": "config",
+						"config": "IndoorEntities:Jester"
+					}
+				]
+			},
+            "sounds": [
+                {
+                    "sound": "entities/jester/jester_theme.ogg",
+					"weight": 1
+                }
+            ]
+        },
+        {
+            "matches": [
+			    "JesterEnemy:SFXAudio:TurnCrank1",
+			    "JesterEnemy:SFXAudio:TurnCrank2",
+			    "JesterEnemy:SFXAudio:TurnCrank3"
+			],
+			"condition": {
+				"type": "config",
+				"config": "IndoorEntities:Jester"
+			},
+            "sounds": [
+                {
+                    "sound": "entities/jester/jester_crank.ogg",
+					"weight": 1
+                }
+            ]
         }
+		
 	]
 }

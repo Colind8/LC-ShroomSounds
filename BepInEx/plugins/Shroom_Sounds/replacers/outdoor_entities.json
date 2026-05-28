@@ -225,7 +225,8 @@
         },
         {
             "matches": [
-				"BaboonHawkEnemy:CreatureSFX:BaboonTakeDamage"
+				"BaboonHawkEnemy:CreatureSFX:BaboonTakeDamage",
+                "BaboonHawkEnemy:CreatureVoice:BaboonTakeDamage"
 			],
 			"condition": {
 				"type": "config",

@@ -118,6 +118,10 @@
 			"description": "Toggle the bracken neck snap sound change.",
 			"default": true
 		},
+		"IndoorEntities:Jester": {
+			"description": "Toggle the Jester sound changes.",
+			"default": true
+		},
 		"OutdoorEntities:SoundCues": {
 			"description": "Toggle whether monsters can play sound cues (only eyeless dog as of now)",
 			"default": true

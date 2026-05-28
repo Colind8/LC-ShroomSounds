@@ -1,7 +1,7 @@
 # 🍄 Shroom Sounds 🍄
 This soundpack is heavily inspired by [CookiesSounds](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesSounds/). Think of this soundpack as a slightly updated version.
 
-Currently at 301 sounds. More sound changes will come soon!
+Currently at 310 sounds. More sound changes will come soon!
 
 # Configs
 Configs have been added as of version 1.4.0!
@@ -11,6 +11,10 @@ Configs have been added as of version 1.4.0!
   - Another example, unchecking the "DMCA" config will DISABLE all potentially copyrighted sounds.
 - You can find the DMCA config in the "_Main" category of the config.
 - You can disable the chance for vanilla sounds to play in the "Music" and "Interface" categories
+
+# Recommended Mods
+- [EnemySoundFixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/EnemySoundFixes/): Re-enables some missing sounds
+- [Loading Music](https://thunderstore.io/c/lethal-company/p/ZetaArcade/LoadingMusic/): Adds loading music
 
 ## Changes (at a glance):
 - Music
@@ -42,6 +46,7 @@ Configs have been added as of version 1.4.0!
   - Eyeless Dog
   - Ghost Girl
   - Hoarding Bug
+  - Jester
   - Snare Flea
   - Thumper
 - Environment
@@ -232,6 +237,10 @@ The following below are round starts and game starts. (borrowed from [CookiesSou
 - Same as above but its Ellis Screaming (rarer)
 - Footsteps from Left 4 Dead 2
 
+### 🃏 Jester
+- Winding Music is a distorted version of Sammy Davis Jr. - The Candy Man (inspired by Madagascar)
+- Crank sound is from Five Nights at Freddy's 2
+
 ### 🐜 Snare Flea
 - Rarely plays Jockey Bacteria from Left 4 Dead when falling on the ground
 - Vassalation (jokey theme) from left 4 Dead when player is being strangled by it
@@ -301,3 +310,6 @@ Loading Music replaced with the following:
 - Memory of Forgathering Dream from Touhou 12.3: Unthinkable Natural Law
 - Wifi Connection theme from Mario Kart Wii
 - Wifi Waiting Room theme from Mario Kart Wii
+- Left Bank Two from Little Big Planet
+- On the Waves from Little Big Planet
+- Practice from Rhythm Heaven DS

@@ -1,3 +1,10 @@
+# v1.7.2
+- new sounds in 1.7.2
+  - new loading music
+  - hitsounds for hoarding bugs
+  - hoarding bug and baboon hawk death sounds if using EnemySoundFixes
+  - Jester Music
+
 # v1.7.1
 - Fixed changelog
 - Fixed teleporter sounds

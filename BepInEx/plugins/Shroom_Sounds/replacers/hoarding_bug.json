@@ -165,6 +165,48 @@
 					"weight": 1
                 }
             ]
-        }
+        },
+		{
+			"matches": [
+				"AnimContainer:Voice:HoarderBugCry"
+			],
+			"sounds": [
+				{
+					"sound": "entities/hoarding_bug/ellis_dead1.ogg",
+					"weight": 1
+				},
+				{
+					"sound": "entities/hoarding_bug/ellis_dead2.ogg",
+					"weight": 1
+				},
+				{
+					"sound": "entities/hoarding_bug/ellis_dead3.ogg",
+					"weight": 1
+				}
+			]
+		},
+		{
+			"matches": [
+				"*:HoarderBug:HitEnemyBody"
+			],
+			"sounds": [
+				{
+					"sound": "entities/hoarding_bug/ellis_hurt1.ogg",
+					"weight": 1
+				},
+				{
+					"sound": "entities/hoarding_bug/ellis_hurt2.ogg",
+					"weight": 1
+				},
+				{
+					"sound": "entities/hoarding_bug/ellis_hurt3.ogg",
+					"weight": 1
+				},
+				{
+					"sound": "entities/hoarding_bug/ellis_hurt4.ogg",
+					"weight": 1
+				}
+			]
+		}
     ]
 }
