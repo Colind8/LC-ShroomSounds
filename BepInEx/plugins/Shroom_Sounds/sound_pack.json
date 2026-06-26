@@ -94,6 +94,10 @@
 			"description": "Toggle the cruiser radio sound changes",
 			"default": true
 		},
+		"Music:LoadingMusic": {
+			"description": "Toggle Loading Music sound change",
+			"default": "Vanilla"
+		},
 		"IndoorEntities:SoundCues": {
 			"description": "Toggle whether monsters can play sound cues",
 			"default": true
@@ -216,10 +220,6 @@
 		},
 		"Ship:ChargeStation": {
 			"description": "Toggle charge station sound changes",
-			"default": true
-		},
-		"Modded:LoadingMusic": {
-			"description": "Toggle Loading Music sound change",
 			"default": true
 		}
 	}

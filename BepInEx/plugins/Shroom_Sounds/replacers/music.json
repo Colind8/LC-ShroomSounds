@@ -658,6 +658,130 @@
 					
 				}
 			]
+		},
+		{
+            "matches": "SpeakerAudio:LoadingMusic:LoadingMusic",
+            "condition": {
+                "type": "config",
+				"config": "Music:LoadingMusic",
+				"value": "LoadingMusic Mod"
+            },
+            "sounds": [
+				{
+                    "sound": "music/loading/costington.ogg",
+                    "weight": 1
+                },
+				{
+                    "sound": "music/loading/cc_online.ogg",
+                    "weight": 1
+                },
+				{
+                    "sound": "music/loading/miiverse.ogg",
+                    "weight": 1
+                },
+				{
+                    "sound": "music/loading/splatoon.ogg",
+                    "weight": 1
+                },
+				{
+                    "sound": "music/loading/touhou.ogg",
+                    "weight": 1
+                },
+				{
+                    "sound": "music/loading/wfcmkw.ogg",
+                    "weight": 1
+                },
+				{
+                    "sound": "music/loading/wfwrmkw.ogg",
+                    "weight": 1
+                },
+				{
+                    "sound": "music/loading/rhythm_heaven.ogg",
+                    "weight": 1
+                },
+				{
+                    "sound": "music/loading/on_the_waves.ogg",
+                    "condition": {
+						"type": "config",
+						"config": "_Main:DMCA"
+					},
+                    "weight": 1
+                },
+				{
+                    "sound": "music/loading/left_bank_two.ogg",
+                    "condition": {
+						"type": "config",
+						"config": "_Main:DMCA"
+					},
+                    "weight": 1
+                }
+            ]
+        },
+		{
+            "matches": "SpeakerAudio:LoadingMusic:LoadingMusic",
+            "condition": {
+                "type": "config",
+				"config": "Music:LoadingMusic",
+				"value": "Replace Vanilla"
+            },
+            "sounds": [
+				{
+                    "sound": "music/loading/costington.ogg",
+                    "weight": 1
+                },
+				{
+                    "sound": "music/loading/cc_online.ogg",
+                    "weight": 1
+                },
+				{
+                    "sound": "music/loading/miiverse.ogg",
+                    "weight": 1
+                },
+				{
+                    "sound": "music/loading/splatoon.ogg",
+                    "weight": 1
+                },
+				{
+                    "sound": "music/loading/touhou.ogg",
+                    "weight": 1
+                },
+				{
+                    "sound": "music/loading/wfcmkw.ogg",
+                    "weight": 1
+                },
+				{
+                    "sound": "music/loading/wfwrmkw.ogg",
+                    "weight": 1
+                },
+				{
+                    "sound": "music/loading/rhythm_heaven.ogg",
+                    "weight": 1
+                },
+				{
+                    "sound": "music/loading/on_the_waves.ogg",
+                    "condition": {
+						"type": "config",
+						"config": "_Main:DMCA"
+					},
+                    "weight": 1
+                },
+				{
+                    "sound": "music/loading/left_bank_two.ogg",
+                    "condition": {
+						"type": "config",
+						"config": "_Main:DMCA"
+					},
+                    "weight": 1
+                }
+            ]
+        },
+		{
+            "matches": "SpeakerAudio:LoadingMusic:LoadingMusic",
+            "condition": {
+                "type": "config",
+				"config": "Music:LoadingMusic",
+				"value": "Disable"
+            }
 		}
 	]
 }
