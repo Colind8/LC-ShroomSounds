@@ -666,11 +666,11 @@
 				"conditions": [
 					{
 						"type": "mod_installed",
-						"config": "ZetaArcade.LoadingMusic"
+						"value": "ZetaArcade.LoadingMusic"
 					},
 					{
 						"type": "config",
-						"config": "Music:loading"
+						"config": "Music:LoadingMusic"
 					}
 				]
 			},
@@ -736,12 +736,12 @@
 						"type": "not",
 						"condition": {
 							"type": "mod_installed",
-							"config": "ZetaArcade.LoadingMusic"
+							"value": "ZetaArcade.LoadingMusic"
 						}
 					},
 					{
 						"type": "config",
-						"config": "Music:loading"
+						"config": "Music:LoadingMusic"
 					}
 				]
 			},
