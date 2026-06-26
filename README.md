@@ -14,7 +14,7 @@ Configs have been added as of version 1.4.0!
 
 # Recommended Mods
 - [EnemySoundFixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/EnemySoundFixes/): Re-enables some missing sounds
-- [Loading Music](https://thunderstore.io/c/lethal-company/p/ZetaArcade/LoadingMusic/): Adds loading music
+- [Loading Music](https://thunderstore.io/c/lethal-company/p/ZetaArcade/LoadingMusic/): Adds loading music that doesn't shift the pitch.
 
 ## Changes (at a glance):
 - Music
@@ -28,6 +28,7 @@ Configs have been added as of version 1.4.0!
   - Menu music
   - Record Player music
   - Cruiser Radio music
+  - Loading music
 - Interface sounds
   - Notification sounds
   - Quota Reached
@@ -61,8 +62,6 @@ Configs have been added as of version 1.4.0!
   - Change Suit
   - Teleporter
   - Charge Station
-- Modded Sounds
-  - [Loading Music](https://thunderstore.io/c/lethal-company/p/ZetaArcade/LoadingMusic/)
 
 # Specific changes / sources
 All sounds that I graciously "borrowed" from other soundpacks will be credited.
@@ -151,6 +150,19 @@ The following below are round starts and game starts. (borrowed from [CookiesSou
 - Popcorn by M & H Band
 - Can You Feel [spc700] by Torchkas
 - Mind Control Corral by Pilotredsun
+
+### Loading Music
+Replaces ship shaking sound loop by default, or the [Loading Music](https://thunderstore.io/c/lethal-company/p/ZetaArcade/LoadingMusic/) mod's sound. Note: the default will have weird pitch shifting, the mod does not.
+- Online Lobby music from Castle Crashers
+- Costington's Mansion from Scooby-Doo and the Spooky Swamp (inspired by [TeaisntsSillySounds](https://thunderstore.io/c/lethal-company/p/Teaisnt/TeaisntsSillySounds/))
+- Miiverse Loading theme
+- Lobby music from Splatoon
+- Memory of Forgathering Dream from Touhou 12.3: Unthinkable Natural Law
+- Wifi Connection theme from Mario Kart Wii
+- Wifi Waiting Room theme from Mario Kart Wii
+- Left Bank Two from Little Big Planet
+- On the Waves from Little Big Planet
+- Practice from Rhythm Heaven DS
 
 ## 🖱️ Interface Sounds 🖱️
 
@@ -298,18 +310,3 @@ Tragedy Mask Cry:
 - Hologram sounds from Team Fortress 2 (borrowed from [CookiesSounds](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesSounds/))
 - Printer sounds from Risk of Rain 2 (borrowed from [CookiesSounds](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesSounds/))
 - Suit Charging sound from Half-Life (borrowed from [CookiesSounds](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesSounds/))
-
-## 🛠 Modded 🛠
-
-### [Loading Music](https://thunderstore.io/c/lethal-company/p/ZetaArcade/LoadingMusic/)
-Loading Music replaced with the following:
-- Online Lobby music from Castle Crashers
-- Costington's Mansion from Scooby-Doo and the Spooky Swamp (inspired by [TeaisntsSillySounds](https://thunderstore.io/c/lethal-company/p/Teaisnt/TeaisntsSillySounds/))
-- Miiverse Loading theme
-- Lobby music from Splatoon
-- Memory of Forgathering Dream from Touhou 12.3: Unthinkable Natural Law
-- Wifi Connection theme from Mario Kart Wii
-- Wifi Waiting Room theme from Mario Kart Wii
-- Left Bank Two from Little Big Planet
-- On the Waves from Little Big Planet
-- Practice from Rhythm Heaven DS

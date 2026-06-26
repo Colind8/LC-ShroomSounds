@@ -96,7 +96,7 @@
 		},
 		"Music:LoadingMusic": {
 			"description": "Toggle Loading Music sound change",
-			"default": "Vanilla"
+			"default": true
 		},
 		"IndoorEntities:SoundCues": {
 			"description": "Toggle whether monsters can play sound cues",
