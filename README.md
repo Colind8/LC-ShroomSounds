@@ -28,6 +28,7 @@ Configs have been added as of version 1.4.0!
   - Menu music
   - Record Player music
   - Cruiser Radio music
+  - Loading music
 - Interface sounds
   - Notification sounds
   - Quota Reached
