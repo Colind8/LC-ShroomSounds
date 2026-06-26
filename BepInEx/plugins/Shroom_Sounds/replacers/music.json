@@ -662,10 +662,18 @@
 		{
             "matches": "SpeakerAudio:LoadingMusic:LoadingMusic",
             "condition": {
-                "type": "config",
-				"config": "Music:LoadingMusic",
-				"value": "LoadingMusic Mod"
-            },
+				"type": "and",
+				"conditions": [
+					{
+						"type": "mod_installed",
+						"config": "ZetaArcade.LoadingMusic"
+					},
+					{
+						"type": "config",
+						"config": "Music:loading"
+					}
+				]
+			},
             "sounds": [
 				{
                     "sound": "music/loading/costington.ogg",
@@ -718,12 +726,25 @@
             ]
         },
 		{
-            "matches": "SpeakerAudio:LoadingMusic:LoadingMusic",
+            "matches": [
+				"HangarShip:ShipLandingTurbulence:ShipLanding"
+			],
             "condition": {
-                "type": "config",
-				"config": "Music:LoadingMusic",
-				"value": "Replace Vanilla"
-            },
+				"type": "and",
+				"conditions": [
+					{
+						"type": "not",
+						"condition": {
+							"type": "mod_installed",
+							"config": "ZetaArcade.LoadingMusic"
+						}
+					},
+					{
+						"type": "config",
+						"config": "Music:loading"
+					}
+				]
+			},
             "sounds": [
 				{
                     "sound": "music/loading/costington.ogg",
@@ -774,14 +795,6 @@
                     "weight": 1
                 }
             ]
-        },
-		{
-            "matches": "SpeakerAudio:LoadingMusic:LoadingMusic",
-            "condition": {
-                "type": "config",
-				"config": "Music:LoadingMusic",
-				"value": "Disable"
-            }
-		}
+        }
 	]
 }

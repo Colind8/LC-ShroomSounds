@@ -1,3 +1,9 @@
+# v1.8.0
+- new sounds in 1.8.0
+
+- Loading Music can now replace vanilla sounds if mod is not installed (config also moved to Music)
+- Fixed some object moving sounds not replacing (namely the file cabinet)
+
 # v1.7.2
 - new sounds in 1.7.2
   - new loading music
