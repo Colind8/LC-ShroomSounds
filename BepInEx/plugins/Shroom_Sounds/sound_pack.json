@@ -95,7 +95,7 @@
 			"default": true
 		},
 		"Music:LoadingMusic": {
-			"description": "Toggle Loading Music sound change.",
+			"description": "Toggle Loading Music sound change",
 			"default": true
 		},
 		"IndoorEntities:SoundCues": {
