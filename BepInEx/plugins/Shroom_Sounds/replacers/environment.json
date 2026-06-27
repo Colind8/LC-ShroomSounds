@@ -41,6 +41,10 @@
 			"sounds": [
 				{
 					"sound": "environment/vent/vent_spawn.ogg",
+					"weight": 100
+				},
+				{
+					"sound": "environment/vent/vent_spawn_rare.ogg",
 					"weight": 1
 				}
 			]

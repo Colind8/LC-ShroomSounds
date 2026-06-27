@@ -79,6 +79,17 @@ All sounds that I graciously "borrowed" from other soundpacks will be credited.
 - Portal Glados thing (borrowed from [CookiesSounds](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesSounds/))
 - Call of Duty Zombies Doctor Monty (borrowed from [CookiesSounds](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesSounds/))
 
+### ☠️ All Players Dead Music
+(the stinger that plays when every player dies and the ship leaves)
+- All Players Dead stinger from Left 4 Dead 2 (inspired by [MemetasticAudio](https://thunderstore.io/c/lethal-company/p/JacuJ/MemetasticAudio/))
+- Game Over theme from New Super Mario Bros Wii.
+- Loser theme from the Price is Right
+- Game Over theme from Plants Vs. Zombies
+- Game Over theme from Sonic the Hedgehog 3
+- Game Over theme from Vib-Ribbon
+- Failure theme from Team Fortress 2
+- Game Over theme for Jimmy from Warioware Inc.
+
 ### 🎶 Ambient Music
 - The original ambient tracks can play
 - Music from Barotrauma
@@ -151,7 +162,7 @@ The following below are round starts and game starts. (borrowed from [CookiesSou
 - Can You Feel [spc700] by Torchkas
 - Mind Control Corral by Pilotredsun
 
-### Loading Music
+### 🕑 Loading Music
 Replaces ship shaking sound loop by default, or the [Loading Music](https://thunderstore.io/c/lethal-company/p/ZetaArcade/LoadingMusic/) mod's sound. Note: the default will have weird pitch shifting, the mod does not.
 - Online Lobby music from Castle Crashers
 - Costington's Mansion from Scooby-Doo and the Spooky Swamp (inspired by [TeaisntsSillySounds](https://thunderstore.io/c/lethal-company/p/Teaisnt/TeaisntsSillySounds/))
@@ -163,6 +174,7 @@ Replaces ship shaking sound loop by default, or the [Loading Music](https://thun
 - Left Bank Two from Little Big Planet
 - On the Waves from Little Big Planet
 - Practice from Rhythm Heaven DS
+- Safe Room from Nico's Nextbots
 
 ## 🖱️ Interface Sounds 🖱️
 
@@ -197,16 +209,6 @@ Replaces ship shaking sound loop by default, or the [Loading Music](https://thun
 (the sounds that play when you scan scrap worth money)
 - Sounds from Luigi's Mansion Arcade
 - Rarely plays graffiti sounds from Jet Set Radio
-
-### ☠️ All Players Dead Music
-(the stinger that plays when every player dies and the ship leaves)
-- All Players Dead stinger from Left 4 Dead 2 (inspired by [MemetasticAudio](https://thunderstore.io/c/lethal-company/p/JacuJ/MemetasticAudio/))
-- Game Over theme from New Super Mario Bros Wii.
-- Loser theme from the Price is Right
-- Game Over theme from Plants Vs. Zombies
-- Game Over theme from Sonic the Hedgehog 3
-- Game Over theme from Vib-Ribbon
-- Failure theme from Team Fortress 2
 
 ## 🧀 Trap Sounds 🐁
 
@@ -270,6 +272,7 @@ Vent Crawl: (sound that plays when a monster is shuffling around a vent)
 
 Vent Spawn: (sound that plays when a monster spawns from a vent)
 - A New Challenger Has Appeared! guitar riff from Five Nights at Freddy's Ultimate Custom Night
+- amogus (rare)
 
 ### ☢️ Apparatus
 When apparatus is pulled:

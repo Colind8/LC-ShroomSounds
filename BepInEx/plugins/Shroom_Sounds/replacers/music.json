@@ -537,6 +537,10 @@
 				{
 					"sound": "music/all_dead/dead_tf2.ogg",
 					"weight": 1
+				},
+				{
+					"sound": "music/all_dead/dead_jimmy.ogg",
+					"weight": 1
 				}
 			]
 		},
@@ -708,6 +712,10 @@
                     "weight": 1
                 },
 				{
+                    "sound": "music/loading/nextbots.ogg",
+                    "weight": 1
+                },
+				{
                     "sound": "music/loading/on_the_waves.ogg",
                     "condition": {
 						"type": "config",
@@ -776,6 +784,10 @@
                 },
 				{
                     "sound": "music/loading/rhythm_heaven.ogg",
+                    "weight": 1
+                },
+				{
+                    "sound": "music/loading/nextbots.ogg",
                     "weight": 1
                 },
 				{

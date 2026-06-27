@@ -1,8 +1,13 @@
 # v1.8.0
 - new sounds in 1.8.0
-
+  - new loading music
+  - new all dead music
+  - new vent sound
 - Loading Music can now replace vanilla sounds if mod is not installed (config also moved to Music)
 - Fixed some object moving sounds not replacing (namely the file cabinet)
+- Made the menu music quieter
+- Replaced Wifi Waiting Room loading music with a version that doesn't have sound effects
+- Updated loaforcsSoundAPI version to latest 2.0.11
 
 # v1.7.2
 - new sounds in 1.7.2
