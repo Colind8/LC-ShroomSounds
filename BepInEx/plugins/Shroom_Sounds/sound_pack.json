@@ -221,6 +221,10 @@
 		"Ship:ChargeStation": {
 			"description": "Toggle charge station sound changes",
 			"default": true
+		},
+		"Ship:DiscoBall": {
+			"description": "Toggle disco ball sound change",
+			"default": true
 		}
 	}
 }

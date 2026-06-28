@@ -313,3 +313,7 @@ Tragedy Mask Cry:
 - Hologram sounds from Team Fortress 2 (borrowed from [CookiesSounds](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesSounds/))
 - Printer sounds from Risk of Rain 2 (borrowed from [CookiesSounds](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesSounds/))
 - Suit Charging sound from Half-Life (borrowed from [CookiesSounds](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesSounds/))
+
+### 🕺 Disco Ball
+- The disco ball is muted so you can jam to tracks from the boombox instead (inspired by [Disco ball no music loaforcsSoundAPI](https://thunderstore.io/c/lethal-company/p/SillyFilly/Disco_ball_no_music_loaforcsSoundAPI/))
+- be careful, the disco ball still attracts dogs.
