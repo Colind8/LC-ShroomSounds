@@ -63,8 +63,22 @@
 				"type": "config",
 				"config": "Ship:Teleporter"
 			},
-			"sounds": [{
+			"sounds": [
+				{
 					"sound": "ship/teleporter/pixelator_out.ogg",
+					"weight": 1
+				}
+			]
+		},
+		{
+			"matches": "AnimContainer:Audio:Boombox6QuestionMark",
+			"condition": {
+				"type": "config",
+				"config": "Ship:DiscoBall"
+			},
+			"sounds": [
+				{
+					"sound": "ship/discoball.ogg",
 					"weight": 1
 				}
 			]
