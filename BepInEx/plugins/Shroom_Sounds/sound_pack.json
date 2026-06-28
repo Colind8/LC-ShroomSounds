@@ -210,6 +210,10 @@
 			"description": "Toggle tragedy mask sound changes",
 			"default": true
 		},
+		"Items:WhoopieCushion": {
+			"description": "Toggle whoopie cushion sound changes",
+			"default": true
+		},
 		"Ship:ChangeSuit": {
 			"description": "Toggle suit change sound change",
 			"default": true

@@ -114,6 +114,48 @@
                     "weight": 1
                 }
 			]
+		}, 
+		{
+			"matches": [
+				"*:WhoopieCushion:Fart1",
+				"*:WhoopieCushion:Fart2",
+				"*:WhoopieCushion:Fart3",
+				"*:WhoopieCushion:Fart5"
+			],
+			"condition": {
+				"type": "config",
+				"config": "Items:WhoopieCushion"
+			},
+			"sounds": [
+				{
+					"sound": "items/whoopie_cushion/fart_1",
+					"weight": 50
+				},
+				{
+					"sound": "items/whoopie_cushion/fart_2",
+					"weight": 50
+				},
+				{
+					"sound": "items/whoopie_cushion/fart_3",
+					"weight": 49
+				},
+				{
+					"sound": "items/whoopie_cushion/fart_4",
+					"weight": 45
+				},
+				{
+					"sound": "items/whoopie_cushion/fart_uncommon",
+					"weight": 10
+				},
+				{
+					"sound": "items/whoopie_cushion/fart_rare_1",
+					"weight": 1
+				},
+				{
+					"sound": "items/whoopie_cushion/fart_rare_2",
+					"weight": 1
+				}
+			]
 		}
     ]
 }

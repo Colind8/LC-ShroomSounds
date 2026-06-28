@@ -58,10 +58,12 @@ Configs have been added as of version 1.4.0!
   - Ship Clipboard
   - TZP-Inhalant
   - Comedy / Tragedy Masks
+  - Whoopie Cushion
 - Ship Sounds
   - Change Suit
   - Teleporter
   - Charge Station
+  - Disco Ball
 
 # Specific changes / sources
 All sounds that I graciously "borrowed" from other soundpacks will be credited.
@@ -299,6 +301,9 @@ Comedy Mask Laugh:
 
 Tragedy Mask Cry:
 - Freddy's laugh from Five Night's at Freddy's
+
+### Whoopie Cushion
+- Replaced with various meme fart sounds
 
 ## 🚀 Ship 🚀
 

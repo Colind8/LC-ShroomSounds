@@ -3,8 +3,9 @@
   - new loading music
   - new all dead music
   - new vent sound
+  - new whoopie cushion sounds
   - adds new vanilla ambient music
-  - Adds silence to disco ball
+  - adds silence to disco ball
 - Loading Music can now replace vanilla sounds if mod is not installed (config also moved to Music)
 - Fixed some object moving sounds not replacing (namely the file cabinet)
 - Made the menu music quieter
