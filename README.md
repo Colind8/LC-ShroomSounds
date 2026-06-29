@@ -53,6 +53,7 @@ Configs have been added as of version 1.4.0!
 - Environment
   - Vent sounds
   - Apparatus
+  - Underwater
 - Item sounds
   - Radar Booster
   - Ship Clipboard
@@ -282,6 +283,10 @@ When apparatus is pulled:
 
 When Radiation Alert appears:
 - Administrator from TF2 saying "We have taken the enemy intelligence"
+
+### 🌊 Underwater
+After a few seconds of being underwater the following will start playing:
+- Clair de Lune by Claude Debussy
 
 ## 🔧 Items 🧸
 

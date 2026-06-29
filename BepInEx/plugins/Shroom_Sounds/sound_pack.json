@@ -190,6 +190,10 @@
 			"description": "Toggle apparatus sound changes",
 			"default": true
 		},
+		"Environment:Underwater": {
+			"description": "Toggle underwater sound change",
+			"default": true
+		},
 		"Items:RadarBooster": {
 			"description": "Toggle radar booster sound changes",
 			"default": true

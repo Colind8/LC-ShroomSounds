@@ -74,6 +74,19 @@
 					"weight": 1
 				}
 			]
+		},
+		{
+			"matches": "Audios:UnderwaterAudio:BreathingUnderwater",
+			"condition": {
+				"type": "config",
+				"config": "Environment:Underwater"
+			},
+			"sounds": [
+				{
+					"sound": "environment/underwater.ogg",
+					"weight": 1
+				}
+			]
 		}
 	]
 }

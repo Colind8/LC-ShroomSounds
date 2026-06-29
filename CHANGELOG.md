@@ -4,6 +4,7 @@
   - new all dead music
   - new vent sound
   - new whoopie cushion sounds
+  - new underwater sound
   - adds new vanilla ambient music
   - adds silence to disco ball
 - Loading Music can now replace vanilla sounds if mod is not installed (config also moved to Music)
