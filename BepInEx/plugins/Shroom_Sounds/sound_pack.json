@@ -218,6 +218,10 @@
 			"description": "Toggle whoopie cushion sound changes",
 			"default": true
 		},
+		"Items:ToyRobot": {
+			"description": "Toggle toy robots sound changes",
+			"default": true
+		},
 		"Ship:ChangeSuit": {
 			"description": "Toggle suit change sound change",
 			"default": true
