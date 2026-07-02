@@ -60,6 +60,7 @@ Configs have been added as of version 1.4.0!
   - TZP-Inhalant
   - Comedy / Tragedy Masks
   - Whoopie Cushion
+  - Toy Robot
 - Ship Sounds
   - Change Suit
   - Teleporter
@@ -307,8 +308,16 @@ Comedy Mask Laugh:
 Tragedy Mask Cry:
 - Freddy's laugh from Five Night's at Freddy's
 
-### Whoopie Cushion
+### 💩 Whoopie Cushion
 - Replaced with various meme fart sounds
+- It's Jerry and Harry theme (very rare)
+
+### 🤖 Toy Robot
+- Mia's Song by Syphus (from Sploder)
+- Voiceclips from [this video](https://www.youtube.com/watch?v=jR60p3UEsxM) by Tomerson
+- Robot Rock [meme](https://www.youtube.com/watch?v=G3YLmZgFuIM)
+- Robot voice from Five Nights at Freddy's
+
 
 ## 🚀 Ship 🚀
 

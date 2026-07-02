@@ -128,32 +128,67 @@
 			},
 			"sounds": [
 				{
-					"sound": "items/whoopie_cushion/fart_1",
+					"sound": "items/whoopie_cushion/fart_1.ogg",
 					"weight": 50
 				},
 				{
-					"sound": "items/whoopie_cushion/fart_2",
+					"sound": "items/whoopie_cushion/fart_2.ogg",
 					"weight": 50
 				},
 				{
-					"sound": "items/whoopie_cushion/fart_3",
+					"sound": "items/whoopie_cushion/fart_3.ogg",
 					"weight": 49
 				},
 				{
-					"sound": "items/whoopie_cushion/fart_4",
+					"sound": "items/whoopie_cushion/fart_4.ogg",
 					"weight": 45
 				},
 				{
-					"sound": "items/whoopie_cushion/fart_uncommon",
+					"sound": "items/whoopie_cushion/fart_uncommon.ogg",
 					"weight": 10
 				},
 				{
-					"sound": "items/whoopie_cushion/fart_rare_1",
+					"sound": "items/whoopie_cushion/fart_rare_1.ogg",
 					"weight": 1
 				},
 				{
-					"sound": "items/whoopie_cushion/fart_rare_2",
+					"sound": "items/whoopie_cushion/fart_rare_2.ogg",
 					"weight": 1
+				}
+			]
+		},
+		{
+			"matches": [
+				"RobotToy:RobotToyCheer"
+			],
+			"condition": {
+				"type": "config",
+				"config": "Items:ToyRobot"
+			},
+			"sounds": [
+				{
+					"sound": "items/toy_robot/mia.ogg",
+					"weight": 6
+				},
+				{
+					"sound": "items/toy_robot/panda.ogg",
+					"condition": {
+						"type": "config",
+						"config": "_Main:FamilyFriendly"
+					},
+					"weight": 2
+				},
+				{
+					"sound": "items/toy_robot/robot_rock.ogg",
+					"condition": {
+						"type": "config",
+						"config": "_Main:FamilyFriendly"
+					},
+					"weight": 1
+				},
+				{
+					"sound": "items/toy_robot/robotvoice.ogg",
+					"weight": 10
 				}
 			]
 		}

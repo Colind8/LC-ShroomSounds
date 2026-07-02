@@ -4,6 +4,7 @@
   - new all dead music
   - new vent sound
   - new whoopie cushion sounds
+  - new toy robot sounds
   - new underwater sound
   - adds new vanilla ambient music
   - adds silence to disco ball
