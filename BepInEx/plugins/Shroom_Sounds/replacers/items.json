@@ -181,8 +181,17 @@
 				{
 					"sound": "items/toy_robot/robot_rock.ogg",
 					"condition": {
-						"type": "config",
-						"config": "_Main:FamilyFriendly"
+						"type": "and",
+						"conditions": [
+							{
+								"type": "config",
+								"config": "_Main:FamilyFriendly"
+							},
+							{
+								"type": "config",
+								"config": "_Main:DMCA"
+							}
+						]
 					},
 					"weight": 1
 				},
